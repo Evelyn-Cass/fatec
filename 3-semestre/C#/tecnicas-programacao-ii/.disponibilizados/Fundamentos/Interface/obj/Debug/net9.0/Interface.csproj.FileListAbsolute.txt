@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Interface\bin\Debug\net9.0\Interface.exe
+C:\FATEC\Fundamentos\Interface\bin\Debug\net9.0\Interface.deps.json
+C:\FATEC\Fundamentos\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+C:\FATEC\Fundamentos\Interface\bin\Debug\net9.0\Interface.dll
+C:\FATEC\Fundamentos\Interface\bin\Debug\net9.0\Interface.pdb
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\Interface.dll
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\refint\Interface.dll
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\Interface.pdb
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Interface\obj\Debug\net9.0\ref\Interface.dll

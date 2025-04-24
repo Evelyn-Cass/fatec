@@ -1,0 +1,87 @@
+﻿@model IEnumerable<PetMongodb.Models.Pet>
+
+@{
+    ViewData["Title"] = "Pets";
+}
+<section class="achados-perdidos">
+<h1>Pets</h1>
+
+<div class="table-responsive">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Idade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CorPredominante)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CorOlhos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Especie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Raca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Situacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagem)
+            </th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idade)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.CorPredominante)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorOlhos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Especie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Raca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Situacao)
+            </td>
+            <td>
+                            <img src="@("/" + item.Imagem)" alt="Imagem do pet" class="img-fluid" style="width:90px;height:90px;" />
+            </td>
+
+           
+                        <td class="d-flex gap-2">
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
+    </div>
+</section>

@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\bin\Debug\net9.0\AsyncAwait.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\bin\Debug\net9.0\AsyncAwait.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\bin\Debug\net9.0\AsyncAwait.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\bin\Debug\net9.0\AsyncAwait.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\bin\Debug\net9.0\AsyncAwait.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\AsyncAwait.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\AsyncAwait.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\AsyncAwait.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\refint\AsyncAwait.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\AsyncAwait.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\AsyncAwait.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\AsyncAwait\obj\Debug\net9.0\ref\AsyncAwait.dll

@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Thow_exception\bin\Debug\net9.0\Thow_exception.exe
+C:\FATEC\Fundamentos\Thow_exception\bin\Debug\net9.0\Thow_exception.deps.json
+C:\FATEC\Fundamentos\Thow_exception\bin\Debug\net9.0\Thow_exception.runtimeconfig.json
+C:\FATEC\Fundamentos\Thow_exception\bin\Debug\net9.0\Thow_exception.dll
+C:\FATEC\Fundamentos\Thow_exception\bin\Debug\net9.0\Thow_exception.pdb
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\Thow_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\Thow_exception.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\Thow_exception.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\Thow_exception.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\Thow_exception.dll
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\refint\Thow_exception.dll
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\Thow_exception.pdb
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\Thow_exception.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Thow_exception\obj\Debug\net9.0\ref\Thow_exception.dll

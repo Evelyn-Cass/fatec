@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA47109-811A-438C-9B7F-B60469FFE065}|Game\\LojaGame.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\exercicios\\desenvolvimento web ii\\preparatorio-prova1\\game\\game\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA47109-811A-438C-9B7F-B60469FFE065}|Game\\LojaGame.csproj|solutionrelative:game\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA47109-811A-438C-9B7F-B60469FFE065}|Game\\LojaGame.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\exercicios\\desenvolvimento web ii\\preparatorio-prova1\\game\\game\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EA47109-811A-438C-9B7F-B60469FFE065}|Game\\LojaGame.csproj|solutionrelative:game\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Game\\Controllers\\GamesController.cs",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Game\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:21:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "Game\\Views\\Games\\Index.cshtml",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "Game\\Views\\Games\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T21:18:09.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

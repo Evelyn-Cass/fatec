@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Excecao_personalizada\bin\Debug\net9.0\Excecao_personalizada.exe
+C:\FATEC\Fundamentos\Excecao_personalizada\bin\Debug\net9.0\Excecao_personalizada.deps.json
+C:\FATEC\Fundamentos\Excecao_personalizada\bin\Debug\net9.0\Excecao_personalizada.runtimeconfig.json
+C:\FATEC\Fundamentos\Excecao_personalizada\bin\Debug\net9.0\Excecao_personalizada.dll
+C:\FATEC\Fundamentos\Excecao_personalizada\bin\Debug\net9.0\Excecao_personalizada.pdb
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\Excecao_personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\Excecao_personalizada.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\Excecao_personalizada.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\Excecao_personalizada.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\Excecao_personalizada.dll
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\refint\Excecao_personalizada.dll
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\Excecao_personalizada.pdb
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\Excecao_personalizada.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Excecao_personalizada\obj\Debug\net9.0\ref\Excecao_personalizada.dll

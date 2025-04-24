@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\bin\Debug\net9.0\CustomExecption.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\bin\Debug\net9.0\CustomExecption.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\bin\Debug\net9.0\CustomExecption.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\bin\Debug\net9.0\CustomExecption.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\bin\Debug\net9.0\CustomExecption.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\CustomExecption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\CustomExecption.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\CustomExecption.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\CustomExecption.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\CustomExecption.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\CustomExecption.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\refint\CustomExecption.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\CustomExecption.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\CustomExecption.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\CustomExecption\obj\Debug\net9.0\ref\CustomExecption.dll

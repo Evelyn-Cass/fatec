@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\controllers\\disciplinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\controllers\\disciplinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\views\\disciplinas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\views\\disciplinas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\views\\disciplinas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\views\\disciplinas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\views\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\views\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\migrations\\20250311143645_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\migrations\\20250311143645_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\supervisor\\desktop\\sistemaacademico\\sistemaacademico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D1FF00-0174-4830-BF72-461CC8E6DC0A}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Views\\Disciplinas\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Views\\Disciplinas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Views\\Disciplinas\\Create.cshtml",
+              "RelativeToolTip": "SistemaAcademico\\Views\\Disciplinas\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:30:45.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Views\\Cursos\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Views\\Cursos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Views\\Cursos\\Index.cshtml",
+              "RelativeToolTip": "SistemaAcademico\\Views\\Cursos\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:01:57.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisciplinasController.cs",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Controllers\\DisciplinasController.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Controllers\\DisciplinasController.cs",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Controllers\\DisciplinasController.cs",
+              "RelativeToolTip": "SistemaAcademico\\Controllers\\DisciplinasController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:56:56.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaAcademico\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T14:49:38.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "SistemaAcademico\\Controllers\\CursosController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:48:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaAcademico\\appsettings.json",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\appsettings.json",
+              "RelativeToolTip": "SistemaAcademico\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T13:37:37.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Program.cs",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Program.cs",
+              "RelativeToolTip": "SistemaAcademico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:42:52.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Views\\Disciplinas\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Views\\Disciplinas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Views\\Disciplinas\\Index.cshtml",
+              "RelativeToolTip": "SistemaAcademico\\Views\\Disciplinas\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:51:15.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250311143645_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Migrations\\20250311143645_inicial.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Migrations\\20250311143645_inicial.cs",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Migrations\\20250311143645_inicial.cs",
+              "RelativeToolTip": "SistemaAcademico\\Migrations\\20250311143645_inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:36:45.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Supervisor\\Desktop\\SistemaAcademico\\SistemaAcademico\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaAcademico\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:46:38.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

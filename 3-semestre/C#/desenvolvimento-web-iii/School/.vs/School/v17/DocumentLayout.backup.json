@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\school\\school\\data\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|solutionrelative:school\\data\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\school\\school\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|solutionrelative:school\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\school\\school\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|solutionrelative:school\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\school\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|solutionrelative:school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\school\\school\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3CA67A-E18B-4551-8157-46C794252980}|School\\School.csproj|solutionrelative:school\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "School\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "School\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T15:20:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Program.cs",
+              "RelativeDocumentMoniker": "School\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Program.cs",
+              "RelativeToolTip": "School\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:14:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "School\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "School\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:04:01.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Data\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "School\\Data\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Data\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "School\\Data\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T15:02:40.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\School\\School\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "School\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:53:24.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

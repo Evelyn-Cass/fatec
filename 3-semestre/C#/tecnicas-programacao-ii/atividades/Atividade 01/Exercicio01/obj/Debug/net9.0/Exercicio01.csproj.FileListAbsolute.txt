@@ -1,0 +1,44 @@
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.exe
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.deps.json
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.runtimeconfig.json
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.dll
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.pdb
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.AssemblyInfo.cs
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.dll
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\refint\Exercicio01.dll
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.pdb
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.genruntimeconfig.cache
+C:\Projetos\Fatec\Desenvolvimento Web II\Exercicios\Exercicio01\obj\Debug\net9.0\ref\Exercicio01.dll
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.exe
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.deps.json
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.runtimeconfig.json
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.dll
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\bin\Debug\net9.0\Exercicio01.pdb
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.AssemblyInfoInputs.cache
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.AssemblyInfo.cs
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.csproj.CoreCompileInputs.cache
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.sourcelink.json
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.dll
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\refint\Exercicio01.dll
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.pdb
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\Exercicio01.genruntimeconfig.cache
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Exercicio01\obj\Debug\net9.0\ref\Exercicio01.dll
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\bin\Debug\net9.0\Exercicio01.exe
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\bin\Debug\net9.0\Exercicio01.deps.json
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\bin\Debug\net9.0\Exercicio01.runtimeconfig.json
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\bin\Debug\net9.0\Exercicio01.dll
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\bin\Debug\net9.0\Exercicio01.pdb
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\Exercicio01.AssemblyInfoInputs.cache
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\Exercicio01.AssemblyInfo.cs
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\Exercicio01.csproj.CoreCompileInputs.cache
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\Exercicio01.sourcelink.json
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\Exercicio01.dll
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\refint\Exercicio01.dll
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\Exercicio01.pdb
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\Exercicio01.genruntimeconfig.cache
+D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Atividade 1 - Tecnicas de Programação\Exercicio01\obj\Debug\net9.0\ref\Exercicio01.dll

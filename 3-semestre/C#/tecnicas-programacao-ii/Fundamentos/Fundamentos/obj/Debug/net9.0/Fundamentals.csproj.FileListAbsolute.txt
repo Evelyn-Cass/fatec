@@ -1,0 +1,30 @@
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.exe
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.deps.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.runtimeconfig.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.AssemblyInfo.cs
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.sourcelink.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\refint\Fundamentals.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.genruntimeconfig.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Fundamentos\obj\Debug\net9.0\ref\Fundamentals.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentals.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\refint\Fundamentals.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentals.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Fundamentos\obj\Debug\net9.0\ref\Fundamentals.dll

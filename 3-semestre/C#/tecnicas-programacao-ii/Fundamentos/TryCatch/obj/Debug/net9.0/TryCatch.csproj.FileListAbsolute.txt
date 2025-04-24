@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\bin\Debug\net9.0\TryCatch.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\bin\Debug\net9.0\TryCatch.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\bin\Debug\net9.0\TryCatch.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\bin\Debug\net9.0\TryCatch.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\bin\Debug\net9.0\TryCatch.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\TryCatch.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\TryCatch.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\TryCatch.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\TryCatch.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\refint\TryCatch.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\TryCatch.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\TryCatch.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\TryCatch\obj\Debug\net9.0\ref\TryCatch.dll

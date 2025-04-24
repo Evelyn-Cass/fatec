@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\Exercicio05.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\Exercicio05.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\Exercicio05.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\Exercicio05.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\bin\Debug\net9.0\Exercicio05.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\bin\Debug\net9.0\Exercicio05.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\bin\Debug\net9.0\Exercicio05.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\bin\Debug\net9.0\Exercicio05.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\bin\Debug\net9.0\Exercicio05.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\Exercicio05.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\refint\Exercicio05.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\Exercicio05.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\Exercicio05.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Exercicios\Tecnicas de Programação\Atividade02\Exercicio05\obj\Debug\net9.0\ref\Exercicio05.dll

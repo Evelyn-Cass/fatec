@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\bin\Debug\net9.0\Composicao2.exe
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\bin\Debug\net9.0\Composicao2.deps.json
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\bin\Debug\net9.0\Composicao2.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\bin\Debug\net9.0\Composicao2.dll
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\bin\Debug\net9.0\Composicao2.pdb
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\Composicao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\Composicao2.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\Composicao2.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\Composicao2.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\Composicao2.dll
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\refint\Composicao2.dll
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\Composicao2.pdb
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\Composicao2.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\2025_1\Composicao\Composicao2\obj\Debug\net9.0\ref\Composicao2.dll

@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\bin\Debug\net9.0\composicao.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\bin\Debug\net9.0\composicao.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\bin\Debug\net9.0\composicao.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\bin\Debug\net9.0\composicao.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\bin\Debug\net9.0\composicao.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\composicao.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\composicao.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\composicao.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\composicao.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\composicao.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\refint\composicao.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\composicao.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\composicao.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\composicao\obj\Debug\net9.0\ref\composicao.dll

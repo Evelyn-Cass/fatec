@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D37F4511-7127-4845-B7C4-6E8F87BB72B2}|Exercicio08\\Exercicio08.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\exercicios\\tecnicas de programa\u00E7\u00E3o\\atividade02\\exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37F4511-7127-4845-B7C4-6E8F87BB72B2}|Exercicio08\\Exercicio08.csproj|solutionrelative:exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F81E1C-D810-470E-ACC3-1CE9E4EEA075}|Exercicio07\\Exercicio07.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\exercicios\\tecnicas de programa\u00E7\u00E3o\\atividade02\\exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F81E1C-D810-470E-ACC3-1CE9E4EEA075}|Exercicio07\\Exercicio07.csproj|solutionrelative:exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A97F988-F5B2-4B3F-896F-0303E6AF8DC3}|Exercicio06\\Exercicio06.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\exercicios\\tecnicas de programa\u00E7\u00E3o\\atividade02\\exercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A97F988-F5B2-4B3F-896F-0303E6AF8DC3}|Exercicio06\\Exercicio06.csproj|solutionrelative:exercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44C14-8C0B-4709-8773-9A7ABF28BD5D}|Exercicio05\\Exercicio05.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\exercicios\\tecnicas de programa\u00E7\u00E3o\\atividade02\\exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44C14-8C0B-4709-8773-9A7ABF28BD5D}|Exercicio05\\Exercicio05.csproj|solutionrelative:exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\Exercicio08\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio08\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\Exercicio08\\Program.cs",
+              "RelativeToolTip": "Exercicio08\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:53:49.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\Exercicio07\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio07\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\Exercicio07\\Program.cs",
+              "RelativeToolTip": "Exercicio07\\Program.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAQwAQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:44:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\Exercicio05\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio05\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\Exercicio05\\Program.cs",
+              "RelativeToolTip": "Exercicio05\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:36:35.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\Exercicio06\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio06\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Exercicios\\Tecnicas de Programa\u00E7\u00E3o\\Atividade02\\Exercicio06\\Program.cs",
+              "RelativeToolTip": "Exercicio06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:20:51.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

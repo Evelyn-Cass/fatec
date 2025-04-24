@@ -1,0 +1,177 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Loja
+build_property.RootNamespace = Loja
+build_property.ProjectDir = D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Desenvolvimento Web II\Loja\Loja\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projetos\FATEC\fatec-semestre3-c-\Desenvolvidos pela aluna\Exercicios\Desenvolvimento Web II\Loja\Loja
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Categorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Compras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Compras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Compras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Compras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Compras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Itens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Itens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Itens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Itens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Itens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/ProdutosCategorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NDYXRlZ29yaWFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/ProdutosCategorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NDYXRlZ29yaWFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/ProdutosCategorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NDYXRlZ29yaWFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/ProdutosCategorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NDYXRlZ29yaWFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/ProdutosCategorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NDYXRlZ29yaWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/FATEC/fatec-semestre3-c-/Desenvolvidos pela aluna/Exercicios/Desenvolvimento Web II/Loja/Loja/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3z60lao91r

@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Colecao\bin\Debug\net9.0\Colecao.exe
+C:\FATEC\Fundamentos\Colecao\bin\Debug\net9.0\Colecao.deps.json
+C:\FATEC\Fundamentos\Colecao\bin\Debug\net9.0\Colecao.runtimeconfig.json
+C:\FATEC\Fundamentos\Colecao\bin\Debug\net9.0\Colecao.dll
+C:\FATEC\Fundamentos\Colecao\bin\Debug\net9.0\Colecao.pdb
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\Colecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\Colecao.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\Colecao.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\Colecao.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\Colecao.dll
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\refint\Colecao.dll
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\Colecao.pdb
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\Colecao.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Colecao\obj\Debug\net9.0\ref\Colecao.dll

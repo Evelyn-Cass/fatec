@@ -1,0 +1,21 @@
+﻿@model IEnumerable<PetMongodb.Models.Pet>
+
+@{
+    ViewData["Title"] = "Pets";
+}
+<section class="achados-perdidos">
+    <h1>Pets</h1>
+    <div class="card-group">
+        @foreach (var item in Model)
+        {
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="~/@item.Imagem" alt="@item.Nome">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Situacao</h5>
+                    <p class="card-text">@item.Nome</p>
+                    @* <a asp-action="Details" asp-route-id="@item.Id">Visualizar</a> *@
+                </div>
+            </div>
+        }
+    </div>
+</section>

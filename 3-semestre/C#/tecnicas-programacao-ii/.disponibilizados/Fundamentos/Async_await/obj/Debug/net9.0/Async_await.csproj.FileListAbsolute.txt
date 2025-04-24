@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Async_await\bin\Debug\net9.0\Async_await.exe
+C:\FATEC\Fundamentos\Async_await\bin\Debug\net9.0\Async_await.deps.json
+C:\FATEC\Fundamentos\Async_await\bin\Debug\net9.0\Async_await.runtimeconfig.json
+C:\FATEC\Fundamentos\Async_await\bin\Debug\net9.0\Async_await.dll
+C:\FATEC\Fundamentos\Async_await\bin\Debug\net9.0\Async_await.pdb
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\Async_await.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\Async_await.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\Async_await.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\Async_await.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\Async_await.dll
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\refint\Async_await.dll
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\Async_await.pdb
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\Async_await.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Async_await\obj\Debug\net9.0\ref\Async_await.dll

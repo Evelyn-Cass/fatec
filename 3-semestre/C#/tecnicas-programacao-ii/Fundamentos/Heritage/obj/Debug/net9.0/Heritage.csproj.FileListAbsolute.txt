@@ -1,0 +1,29 @@
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.exe
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.deps.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.runtimeconfig.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.AssemblyInfo.cs
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\refint\Heritage.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.genruntimeconfig.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Heritage\obj\Debug\net9.0\ref\Heritage.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\bin\Debug\net9.0\Heritage.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\refint\Heritage.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\Heritage.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Heritage\obj\Debug\net9.0\ref\Heritage.dll

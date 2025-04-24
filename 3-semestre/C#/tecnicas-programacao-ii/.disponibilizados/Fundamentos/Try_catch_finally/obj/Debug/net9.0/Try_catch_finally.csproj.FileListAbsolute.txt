@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.exe
+C:\FATEC\Fundamentos\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.deps.json
+C:\FATEC\Fundamentos\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.runtimeconfig.json
+C:\FATEC\Fundamentos\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.dll
+C:\FATEC\Fundamentos\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.pdb
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.dll
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\refint\Try_catch_finally.dll
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.pdb
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Try_catch_finally\obj\Debug\net9.0\ref\Try_catch_finally.dll

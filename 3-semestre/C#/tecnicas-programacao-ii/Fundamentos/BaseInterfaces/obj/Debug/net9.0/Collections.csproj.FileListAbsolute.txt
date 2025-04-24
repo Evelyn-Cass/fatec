@@ -1,0 +1,37 @@
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.exe
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.deps.json
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.runtimeconfig.json
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.dll
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.pdb
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.sourcelink.json
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.dll
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\refint\Collections.dll
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.pdb
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Fundamentos\BaseInterfaces\obj\Debug\net9.0\ref\Collections.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Collections.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\refint\Collections.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\ref\Collections.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Exemplo1.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Exemplo1.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Exemplo1.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Exemplo1.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\bin\Debug\net9.0\Exemplo1.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collections.csproj.AssemblyReference.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\BaseInterfaces\obj\Debug\net9.0\Collecti.2997995D.Up2Date

@@ -1,0 +1,30 @@
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.exe
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.deps.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.runtimeconfig.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.AssemblyInfo.cs
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.sourcelink.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\refint\Lambida.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.genruntimeconfig.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Lambida\obj\Debug\net9.0\ref\Lambida.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\bin\Debug\net9.0\Lambida.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\refint\Lambida.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\Lambida.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Lambida\obj\Debug\net9.0\ref\Lambida.dll

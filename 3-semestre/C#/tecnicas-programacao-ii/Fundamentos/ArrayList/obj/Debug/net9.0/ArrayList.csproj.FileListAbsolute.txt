@@ -1,0 +1,30 @@
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.exe
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.deps.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.runtimeconfig.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfo.cs
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.sourcelink.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\refint\ArrayList.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.genruntimeconfig.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\ArrayList\obj\Debug\net9.0\ref\ArrayList.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\refint\ArrayList.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\ArrayList\obj\Debug\net9.0\ref\ArrayList.dll

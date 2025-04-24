@@ -1,0 +1,167 @@
+﻿@model PetMongodb.Models.Pet
+
+
+
+@{
+    ViewData["Title"] = "Create";
+}
+<section class="form-geral">
+<h1>Pet</h1>
+
+
+<hr />
+
+    
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Nome" class="control-label fw-bold fs-5"></label>
+                    <input asp-for="Nome" class="form-control" />
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Idade" class="control-label fw-bold fs-5"></label>
+                    <input asp-for="Idade" class="form-control" />
+                    <span asp-validation-for="Idade" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+           
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="CorPredominante" class="control-label fw-bold fs-5"></label>
+                    <input asp-for="CorPredominante" class="form-control" />
+                    <span asp-validation-for="CorPredominante" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="CorOlhos" class="control-label fw-bold fs-5"></label>
+                    <input asp-for="CorOlhos" class="form-control" />
+                    <span asp-validation-for="CorOlhos" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+               
+                <div class="form-group">
+                    <label asp-for="Especie" class="control-label fw-bold fs-5"></label>
+                    <input asp-for="Especie" class="form-control" />
+                    <span asp-validation-for="Especie" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Genero" class="control-label fw-bold fs-5"></label>
+
+                    <select asp-for="Genero" class="form-control">
+                        <option>Macho</option>
+                        <option>Fêmea</option>
+                    </select>
+                    <span asp-validation-for="Raca" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Raca" class="control-label fw-bold fs-5"></label>
+                    <input asp-for="Raca" class="form-control" />
+                    <span asp-validation-for="Raca" class="text-danger"></span>
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Porte" class="control-label fw-bold fs-5"></label>
+                    <select asp-for="Porte" class="form-control">
+                        <option>Grande</option>
+                        <option>Médio</option>
+                        <option>Pequeno</option>
+                    </select>
+                    <span asp-validation-for="Especie" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Local" class="control-label fw-bold fs-5"></label>
+                    <input asp-for="Local" class="form-control" />
+                    <span asp-validation-for="Local" class="text-danger"></span>
+                </div>
+            </div>
+        
+        <div class="col-md-6">
+            <div class="form-group">
+                    <label asp-for="PontoReferencia" class="control-label fw-bold fs-5"></label>
+                <input asp-for="PontoReferencia" class="form-control" />
+                <span asp-validation-for="PontoReferencia" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                    <label asp-for="Data" class="control-label fw-bold fs-5"></label>
+                <input asp-for="Data" class="form-control" type="date" value="@Model.Data?.ToString("yyyy-MM-dd")" />
+                <span asp-validation-for="Data" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-6">          
+            <div class="form-group">
+                    <label asp-for="Recompensa" class="control-label fw-bold fs-5"></label>
+                <input asp-for="Recompensa" class="form-control" />
+                <span asp-validation-for="Recompensa" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+            <div class="form-group">
+               
+                <input asp-for="Situacao" class="form-control" type="hidden" value="@Model.Situacao" />
+                
+            </div>
+            <div class="form-group">
+            <label asp-for="Comentario" class="control-label fw-bold fs-5"></label>
+                <input asp-for="Comentario" class="form-control" />
+                <span asp-validation-for="Comentario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+            <label asp-for="Imagem" class="control-label fw-bold fs-5"></label>
+                <input asp-for="Imagem" class="form-control" type="file" onchange="previewImage(event)" />
+                <span asp-validation-for="Imagem" class="text-danger"></span>
+            </div>
+            <br /><div class="mb-3">
+                <img id="imagePreview" src="#" alt="Imagem Preview" style="display: none; width: 100px; height: 100px; object-fit: cover;" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Cadastrar" class="btn" />
+            </div>
+        </form>
+</section> 
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+<script>
+        function previewImage(event) {
+            var reader = new FileReader();
+            reader.onload = function () {
+                var output = document.getElementById('imagePreview');
+                output.src = reader.result;
+                output.style.display = 'block';             }
+            reader.readAsDataURL(event.target.files[0]); 
+        }
+</script>

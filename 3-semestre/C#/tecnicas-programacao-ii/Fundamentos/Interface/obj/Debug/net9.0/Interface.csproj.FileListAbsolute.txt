@@ -1,0 +1,30 @@
+C:\Projetos\Fatec\C#\Fundamentos\Interface\bin\Debug\net9.0\Interface.exe
+C:\Projetos\Fatec\C#\Fundamentos\Interface\bin\Debug\net9.0\Interface.deps.json
+C:\Projetos\Fatec\C#\Fundamentos\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+C:\Projetos\Fatec\C#\Fundamentos\Interface\bin\Debug\net9.0\Interface.dll
+C:\Projetos\Fatec\C#\Fundamentos\Interface\bin\Debug\net9.0\Interface.pdb
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\Interface.sourcelink.json
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\Interface.dll
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\refint\Interface.dll
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\Interface.pdb
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Fundamentos\Interface\obj\Debug\net9.0\ref\Interface.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\bin\Debug\net9.0\Interface.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\bin\Debug\net9.0\Interface.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\bin\Debug\net9.0\Interface.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\bin\Debug\net9.0\Interface.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\Interface.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\Interface.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\refint\Interface.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\Interface.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Interface\obj\Debug\net9.0\ref\Interface.dll

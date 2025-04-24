@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\academico\\academico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|solutionrelative:academico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\academico\\academico\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|solutionrelative:academico\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Migrations\\20250311181250_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Academico\\Migrations\\20250311181250_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\academico\\academico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|solutionrelative:academico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\academico\\academico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|solutionrelative:academico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\academico\\academico\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|solutionrelative:academico\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\academico\\academico\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|solutionrelative:academico\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\academico\\academico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A2E9975-470C-4ACD-960F-C0CA0B97D0E4}|Academico\\Academico.csproj|solutionrelative:academico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Academico\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Academico\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:18:07.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "Academico\\Controllers\\CursosController.cs",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "Academico\\Controllers\\CursosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:17:46.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250311181250_initial.cs",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Migrations\\20250311181250_initial.cs",
+              "RelativeDocumentMoniker": "Academico\\Migrations\\20250311181250_initial.cs",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Migrations\\20250311181250_initial.cs",
+              "RelativeToolTip": "Academico\\Migrations\\20250311181250_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:12:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Program.cs",
+              "RelativeDocumentMoniker": "Academico\\Program.cs",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Program.cs",
+              "RelativeToolTip": "Academico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:07:13.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Models\\Matricula.cs",
+              "RelativeDocumentMoniker": "Academico\\Models\\Matricula.cs",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Models\\Matricula.cs",
+              "RelativeToolTip": "Academico\\Models\\Matricula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:06:50.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Academico\\Models\\Aluno.cs",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Models\\Aluno.cs",
+              "RelativeToolTip": "Academico\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:05:13.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Academico\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Academico\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:55:49.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\appsettings.json",
+              "RelativeDocumentMoniker": "Academico\\appsettings.json",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Academico\\Academico\\appsettings.json",
+              "RelativeToolTip": "Academico\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T17:53:50.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

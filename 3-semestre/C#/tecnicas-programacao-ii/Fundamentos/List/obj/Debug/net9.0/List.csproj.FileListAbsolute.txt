@@ -1,0 +1,30 @@
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\bin\Debug\net9.0\List.exe
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\bin\Debug\net9.0\List.deps.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\bin\Debug\net9.0\List.runtimeconfig.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\bin\Debug\net9.0\List.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\bin\Debug\net9.0\List.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\List.sourcelink.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\List.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\refint\List.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\List.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\List\obj\Debug\net9.0\ref\List.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\bin\Debug\net9.0\List.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\bin\Debug\net9.0\List.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\bin\Debug\net9.0\List.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\bin\Debug\net9.0\List.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\bin\Debug\net9.0\List.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\List.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\List.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\refint\List.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\List.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\List\obj\Debug\net9.0\ref\List.dll

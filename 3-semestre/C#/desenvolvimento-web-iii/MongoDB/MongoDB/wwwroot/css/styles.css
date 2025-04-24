@@ -1,0 +1,23 @@
+﻿.navbar{
+    background-color: #ff8c42;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #fdf5ec;
+    font-weight: bold;
+    transition: 0.3s;
+}
+    .navbar a:hover {
+        color: #f6c74f;
+    }
+
+.home {
+    padding: 50px;
+    text-align: center;
+    color: #8a2be2;
+}
+
+.footer{
+    color: #8a2be2;
+}

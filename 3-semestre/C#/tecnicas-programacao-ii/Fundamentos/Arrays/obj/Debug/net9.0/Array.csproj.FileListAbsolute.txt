@@ -1,0 +1,30 @@
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\bin\Debug\net9.0\Array.exe
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\bin\Debug\net9.0\Array.deps.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\bin\Debug\net9.0\Array.runtimeconfig.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\bin\Debug\net9.0\Array.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\bin\Debug\net9.0\Array.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\Array.AssemblyInfo.cs
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\Array.sourcelink.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\Array.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\refint\Array.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\Array.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\Array.genruntimeconfig.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Arrays\obj\Debug\net9.0\ref\Array.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\bin\Debug\net9.0\Array.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\bin\Debug\net9.0\Array.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\bin\Debug\net9.0\Array.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\bin\Debug\net9.0\Array.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\bin\Debug\net9.0\Array.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\Array.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\Array.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\Array.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\refint\Array.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\Array.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\Array.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Arrays\obj\Debug\net9.0\ref\Array.dll

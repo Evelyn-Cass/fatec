@@ -1,0 +1,30 @@
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.exe
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.deps.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.runtimeconfig.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.AssemblyInfo.cs
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\refint\Attributes.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.genruntimeconfig.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\ref\Attributes.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\bin\Debug\net9.0\Attributes.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\refint\Attributes.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\Attributes.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Attributes\obj\Debug\net9.0\ref\Attributes.dll

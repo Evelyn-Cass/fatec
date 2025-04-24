@@ -1,0 +1,46 @@
+use test
+
+db.dropDatabase()
+
+show dbs
+show collections
+
+db.createCollection("user")
+
+db.user.insertOne({name:"Renan", age:30, city:"New York"})
+
+db.user.insertMany([{name:"Bob", age:25, city:"Toronto"}, {name:"Ana", age:37, city:"São Paulo"}])
+
+db.user.find({age:30}).pretty();
+
+db.user.find({city:"New York"},{name: 1, _id:0})
+
+db.user.updateOne({name: "Renan"},{$set: {age:31}})
+
+db.user.updateMany(
+    {city:"New York"},
+    {$set: 
+        {state:"NY"}
+    }
+)
+
+db.user.updateOne(
+    {name: "Renan"},
+    {
+        $push:
+        {hobby:"Gaming"}
+    }
+)
+
+db.user.deleteOne(
+    {
+        name: "Renan"
+    }
+)
+
+db.user.deleteMany(
+    {age: {
+        $lt: 25
+    }}
+)
+// remove os usuários com menos de 25 anos

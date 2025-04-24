@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\PetMongodb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\exercicios\\desenvolvimento web ii\\petmongodb\\petmongodb\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\exercicios\\desenvolvimento web ii\\petmongodb\\petmongodb\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|d:\\projetos\\fatec\\fatec-semestre3-c-\\desenvolvidos pela aluna\\exercicios\\desenvolvimento web ii\\petmongodb\\petmongodb\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\PetMongodb\\PetMongodb\\Views\\Pets\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PetMongodb\\Views\\Pets\\Delete.cshtml",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\PetMongodb\\PetMongodb\\Views\\Pets\\Delete.cshtml",
+              "RelativeToolTip": "PetMongodb\\Views\\Pets\\Delete.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T18:27:46.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\PetMongodb\\PetMongodb\\Views\\Pets\\Details.cshtml",
+              "RelativeDocumentMoniker": "PetMongodb\\Views\\Pets\\Details.cshtml",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\PetMongodb\\PetMongodb\\Views\\Pets\\Details.cshtml",
+              "RelativeToolTip": "PetMongodb\\Views\\Pets\\Details.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T18:27:47.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\PetMongodb\\PetMongodb\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "PetMongodb\\Controllers\\PetsController.cs",
+              "ToolTip": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\PetMongodb\\PetMongodb\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "PetMongodb\\Controllers\\PetsController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAApwJcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:03:13.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

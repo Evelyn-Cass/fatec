@@ -1,0 +1,30 @@
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.exe
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.deps.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.runtimeconfig.json
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.AssemblyInfo.cs
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\refint\Exemplo1.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.pdb
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.genruntimeconfig.cache
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\ref\Exemplo1.dll
+C:\Projetos\Fatec\Técnicas de programação II\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\bin\Debug\net9.0\Exemplo1.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\refint\Exemplo1.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\Exemplo1.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Exemplo1\obj\Debug\net9.0\ref\Exemplo1.dll

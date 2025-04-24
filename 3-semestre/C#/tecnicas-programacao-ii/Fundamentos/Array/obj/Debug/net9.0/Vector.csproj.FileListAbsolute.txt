@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\bin\Debug\net9.0\Vector.exe
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\bin\Debug\net9.0\Vector.deps.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\bin\Debug\net9.0\Vector.runtimeconfig.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\bin\Debug\net9.0\Vector.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\bin\Debug\net9.0\Vector.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\Vector.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\Vector.AssemblyInfo.cs
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\Vector.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\Vector.sourcelink.json
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\Vector.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\refint\Vector.dll
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\Vector.pdb
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\Vector.genruntimeconfig.cache
+C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Array\obj\Debug\net9.0\ref\Vector.dll

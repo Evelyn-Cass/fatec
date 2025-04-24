@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AvaliaCarro.props" />
+</Project>

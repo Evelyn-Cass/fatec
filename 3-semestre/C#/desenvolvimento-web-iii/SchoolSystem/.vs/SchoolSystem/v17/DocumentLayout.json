@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Migrations\\20250311140414_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolSystem\\Migrations\\20250311140414_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\schoolsystem\\schoolsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92CFD813-021B-433C-84D6-CD5614965FE5}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250311140414_Initial.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Migrations\\20250311140414_Initial.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Migrations\\20250311140414_Initial.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Migrations\\20250311140414_Initial.cs",
+              "RelativeToolTip": "SchoolSystem\\Migrations\\20250311140414_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:04:14.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\User.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:53:49.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:53:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:53:39.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\Enrollment.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:53:31.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\Course.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:52:35.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Discipline.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\Discipline.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\Discipline.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Models\\Discipline.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\Discipline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:53:24.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SchoolSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:47:28.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\Program.cs",
+              "RelativeToolTip": "SchoolSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:42:38.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolSystem\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\SchoolSystem\\SchoolSystem\\appsettings.json",
+              "RelativeToolTip": "SchoolSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T13:37:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
