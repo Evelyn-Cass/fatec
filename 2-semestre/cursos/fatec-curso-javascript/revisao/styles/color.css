@@ -1,0 +1,31 @@
+:root{
+    --vermelho-base: #b20000;
+    --vermelho-escuro: #7e0000;
+    --azul-base: #005c6d;
+    --azul-destaque-base:#00c1c7;
+    --azul-escuro: #004854;
+    --verde-base: #a0c340;
+    --coral-base: #ff4c4d;
+    --pink-base: #ff4ca2;
+    --cinza-base: #666;
+    --branco-base: #f8f8f8;
+    --preto-base: #252525;
+
+    --background: var(--branco-base);
+    --texto-color: var(--preto-base);
+}
+
+.dark-mode{
+    --background: var(--preto-base);
+    --texto-color: var(--branco-base);
+}
+
+.dark-mode h1{
+    color: var(--azul-destaque-base);
+}
+
+.dark-mode .btn{
+    background-color: var(--verde-base);
+    color: var(--preto-base);
+}
+

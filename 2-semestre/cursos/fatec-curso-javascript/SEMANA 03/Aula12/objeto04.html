@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> Aula de JavaScript </title>
+</head>
+<script type="text/javascript">
+function DataAtual(){
+	var dataAtual = new Date();
+    var dia = dataAtual.getDate();
+    document.getElementById("datahora").innerHTML = dia;
+}
+</script>
+<body onload="DataAtual()"> 
+	<div id="datahora"></div>
+</body>
+</html>

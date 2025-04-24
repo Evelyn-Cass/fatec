@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <img src="img/banner1.jpg" id="banner" style="width: 100%;" alt="">
+
+    <form action="#" method="post">
+        <label for="nome">Nome:</label>
+        <input type="text" name="" id="nome" onchange="valida(this, 'vazio')"><br>
+        <span class="msg-erro"></span><br>
+
+        <label for="cpf">CPF</label>
+        <input type="tel" name="" id="cpf" onchange="valida(this, 'cpf')" 
+        onkeyup="formata(this, 'cpf')"><br>
+        <span class="msg-erro"></span><br>
+
+        <button type="button">SALVAR</button>
+    </form>
+
+    <script src="js/events.js"></script>
+    <script src="js/image.js"></script>
+</body>
+
+</html>

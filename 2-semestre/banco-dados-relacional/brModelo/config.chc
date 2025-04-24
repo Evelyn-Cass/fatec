@@ -1,0 +1,13 @@
+#Config
+#Mon Nov 04 08:51:07 BRT 2024
+cfg.ancorador=true
+cfg.gradelargura=10
+cfg.location.salvar=false
+cfg.location.x=676
+cfg.location.y=0
+cfg.mostrardimensoesaomover=true
+cfg.mostrargrade=true
+cfg.mostrarids=false
+cfg.mostrartooltips=false
+cfg.recentes=C\:\\Users\\Avell\\Desktop\\banco de dados\\modelo_logico.brM3;C\:\\Users\\Avell\\Desktop\\banco de dados\\banco conceitual.brM3;C\:\\Users\\Avell\\Desktop\\banco conceitual.brM3;C\:\\Projetos\\Fatec\\fatec-semestre2-banco-dados-relacional\\08-09\\estudo-caso.brM3;C\:\\Projetos\\Fatec\\fatec-semestre2-banco-dados-relacional\\08-09\\estudo-caso-logico.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\atividades\\04-01\\tarefa-01\\tarefa01_exercicio03.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\atividades\\04-01\\tarefa-02\\tarefa02.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\atividades\\04-01\\tarefa-01\\tarefa01_exercicio02.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\03-25\\Aula 04 - Sistema Academico.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\atividades\\04-01\\tarefa-01\\tarefa01_exercicio01.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\atividades\\04-01\\musicas.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\03-25\\aula06_empresa_desenvolvimento.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\03-11\\assistencia-tecnica.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\03-11\\escola.brM3;C\:\\Projetos\\Fatec\\fatec-modelagem-banco-dados\\atividades\\04-01\\clinica_medica.brM3
+cfg.tipodefault=0

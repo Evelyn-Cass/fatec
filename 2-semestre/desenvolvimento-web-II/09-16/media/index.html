@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Média</title>
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <script src="assets/scripts/script.js" defer></script>
+</head>
+
+<body>
+    <h1>Calcular Média - DW2</h1>
+    <form id="form" method="post">
+        <label for="avaliacao1">Avaliação 1 (A1):</label>
+        <input type="number" name="avaliacao1" id="avaliacao1" min="0" max="10" step="0.01" required onkeyup="checarNumero(this, 10, 0)"/>
+
+        <label for="avaliacao2">Avaliação 2 (A2):</label>
+        <input type="number" name="avaliacao2" id="avaliacao2" min="0" max="10" step="0.01" required onkeyup="checarNumero(this, 10, 0)" />
+
+        <label for="projeto1">Projeto 1 (P1):</label>
+        <input type="number" name="projeto1" id="projeto1" min="0" max="10" step="0.01" required onkeyup="checarNumero(this, 10, 0)"/>
+
+        <label for="projeto2">Projeto 2 (P2):</label>
+        <input type="number" name="projeto2" id="projeto2" min="0" max="10"  step="0.01"required onkeyup="checarNumero(this, 10, 0)"/>
+
+        <label for="participacao">Participação Diária (PD):</label>
+
+        <input type="number" name="participacao" id="participacao" min="0" max="10" step="0.01" required onkeyup="checarNumero(this, 10, 0)"/>
+
+        <label class="lbl-faltas" for="faltas">Total de faltas:</label>
+        <div class="contianer-faltas">
+            <input type="number" name="faltas" id="faltas" min="0" max="80" required onkeyup="checarNumero(this, 80, 0)"/>
+            <input type="text" name="porcentagem-presenca" id="porcentagem-presenca" readonly >
+        </div>
+
+        <p id="aviso"><b>*</b>Preencha todos os campos!</p>
+    </form>
+    <div>
+        <button id="limpar" onclick="limpar()">Limpar</button>
+        <button id="calcularMedia" onclick="calcularMedia()">Calcular</button>
+
+    </div>
+
+    <div class="container" id="container">
+        <p>
+            <span><b>Média Final: </b></span>
+            <span id="media"></span>
+        </p>
+
+        <p>
+            <span><b>Resultado Final:</b></span>
+            <span id="resultado"></span>
+        </p>
+    </div>
+
+</html>

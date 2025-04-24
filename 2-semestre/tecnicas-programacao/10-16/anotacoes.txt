@@ -1,0 +1,11 @@
+Padrão de Projeto Arquiteural(Organização) no Modelo MVC
+Views, Controllers e Models.
+
+Propõe que o projeto esteja estruturado em 3 pastas diferentes.
+Modelos - Classes de negócio
+View -  Visões, todos os arquivos ou pastas geradas que temos contato com usuário.
+Controllers - Guarda os controladores(recebem requisições e trabalham para que tudo ocorra de forma correta), classes que conrtrolam fluxo das requisições.
+
+Index - Aquivo que dá inicio a aplicação    
+
+Requisição - Precisa de rotas para atender a Requisição(composta pelo controlador e pelo método que vai ser executado no controlador)

@@ -1,0 +1,25 @@
+<html>
+<head>
+<title> Aula de JavaScript </title>
+<script type="text/javascript" >
+		function testeNome(){
+				if (form.nome.value==""){
+					alert("Preencher o nome");
+				}
+		}
+		function testeIdade(){		
+				if (form.idade.value==""){
+					alert("Preencher a idade");
+				}				
+		}
+</script>
+</head>
+<body>
+<form name="form">
+	Digite seu Nome:
+	<input type="text" name="nome" onBlur="testeNome()">
+	<br><br>Sua Idade:
+	<input type="text" name="idade" onBlur="testeIdade()">
+</form>
+</body>
+</html>

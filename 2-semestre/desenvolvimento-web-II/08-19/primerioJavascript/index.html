@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head> <!-- informações que precisam ser carregadas antes -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Dispositivo responsível -->
+    <title>Primeiro Javascript</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css" />
+    <script src="scripts/script.js"></script>
+</head>
+
+<body onload="ajustarFoco()">
+    <h1>Primeiro Javascript</h1>
+    <form id="nomes" action="#" method="post">
+
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" placeholder="Digite seu nome"/>
+        <label for="sobrenome">Sobrenome:</label>
+        <input type="text" id="sobrenome" name="sobrenome" placeholder="Digite seu sobrenome" />
+
+    </form>
+    <p id="aviso">O nome e o sobrenome devem estar preenchidos!</p>
+    <div>
+        <button id="juntar" onclick="juntarNome()">Juntar</button>
+        <button id="juntar" onclick="escreverNomeCompleto()">Escrever</button>
+        <button id="limpar" onclick="limpar()">Limpar</button>
+        <button id="imprimir" onclick="window.print()">imprimir</button>
+    </div>
+
+    <hr>
+    <br>
+    <div id="container">
+        <h3>Nome Completo:</h3>
+        <p id="nomeCompleto"></p>
+    </div>
+</body>
+
+<script src="scripts/script.js"></script>
+
+</html>

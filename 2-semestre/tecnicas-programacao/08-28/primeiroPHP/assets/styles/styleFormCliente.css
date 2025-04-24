@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    margin: 0 0 10px 0;
+    color: darkslategray;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+label{
+    color: darkslategray;
+    font-weight: bold;
+}
+
+div input{
+    width: 30vw;
+    margin: 0 0 10px 0;
+    border: none;
+    border-bottom: 1px solid darkslategray;
+    border-right: 1px solid darkslategray;
+    border-radius: 4px;
+    padding: 3px;
+}
+.botao{
+    width: 100px;
+    text-decoration: none;
+    border: 5px solid cadetblue;
+    border-radius: 40px;
+    padding: 10px;
+    color: cadetblue;
+    font-weight: bold;
+}
+.botao:hover{
+    background-color: cadetblue;
+    color: white;
+}

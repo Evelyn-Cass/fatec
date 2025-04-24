@@ -1,0 +1,9 @@
+Encapsulamento é feito através da Visibilidade 
+Tipos: Private, Protected
+
+Herança: Customizar atributos e métodos
+
+Relacionamento entre classes
+Associação: Unilateral, Bilateral, Classe Associativa, Composição, Agregação
+
+Dependência

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> Aula de JavaScript </title>
+<script type="text/javascript" >
+	function condicao(valor){
+		if(isNaN(valor)){
+			alert("Não é um número!!!");
+		}
+	}
+</script>
+</head>
+<body>
+<form name="formulario">
+	Código (somente número):
+	<input type="text" name="nome" onBlur="condicao(this.value)">
+</form>
+</body>
+</html>

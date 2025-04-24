@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript</title>
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .red {
+            color: red;
+        }
+
+        p {
+            width: 60%;
+        }
+
+        .bold {
+            font-weight: bold;
+        }
+        .green{
+            color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Adicionando conteúdo e modificando o css</h1>
+    <button id="add-funcao">Adiciona botão com função</button><br>
+
+    <div id="bottao"></div>
+
+    <br>
+
+    <p class="bold red">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, possimus accusamus? Ullam
+        impedit quasi enim
+        earum facilis aspernatur beatae modi distinctio aut sapiente explicabo dolorum aliquid necessitatibus, nostrum
+        ab ipsum?</p>
+
+    <button onclick="mudarClasse()">Alterar Classe</button>
+    <script>
+        document.getElementById('add-funcao').addEventListener('click', function () {
+            var txtButton = '<button onclick="mudarTexto(\'red\')">Muda Cor Vermelho</button><br>';
+            txtButton += '<button onclick="mudarCorAleatoria()">Cor Aleatoria</button>';
+
+            document.getElementById('bottao').innerHTML = txtButton;
+        });
+
+        function mudarTexto(cor) {
+            document.body.style.color = cor;
+        };
+
+        function mudarCorAleatoria() {
+            let hexa = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'];
+            var cor = '#';
+
+            for (let i = 0; i < 6; i++) {
+                cor += hexa[Math.floor(Math.random() * hexa.length)];
+            }
+
+            document.body.style.color = cor;
+        };
+        function mudarClasse() {
+            var txt = document.querySelector('p');
+            console.log(txt.className);
+
+            if (txt.classList.contains('red')) {
+                txt.classList.remove('red');
+                txt.classList.add('green');
+            }
+            else{
+                txt.classList.replace('green','red'); 
+            }
+        }
+    </script>
+</body>
+
+</html>

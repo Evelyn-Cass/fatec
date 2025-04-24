@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Primeiro PHP</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="assets/styles/styleFormCliente.css">
+</head>
+
+<body>
+	<h1>Contato</h1>
+	<form action="mostrar_contato.php" method="get">
+		<div>
+			<label for="cliente_nome">Nome:</label>
+			<input type="text" name="cliente_nome" id="cliente_nome">
+		</div>
+		<div>
+			<label for="cliente_sobrenome">Sobrenome:</label>
+			<input type="text" name="cliente_sobrenome" id="cliente_sobrenome">
+		</div>
+		<div>
+			<label for="cliente_cpf">CPF:</label>
+			<input type="text" name="cliente_cpf" id="cliente_cpf">
+		</div>
+		<input class="botao" type="submit" value="Cadastrar">
+	</form>
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro Produtos</title>
+</head>
+<body>
+    <h1>Cadastro de Produtos</h1>
+    <form action="mostrar_produto.php" method="get">
+        <div class="container">
+            <label for="produto_nome">Nome:</label><br>
+            <input type="text" name="produto_nome" id="produto_nome">
+        </div>
+
+        <div class="container">
+            <label for="produto_preco">Preço:</label><br>
+            <input type="text" name="produto_preco" id="produto_preco">
+        </div>
+        
+        <div class="container">
+            <label for="produto_descricao">Descrição:</label><br>
+            <textarea name="produto_descricao" id="produto_descricao"></textarea>
+        </div>
+        <input type="submit" value="Cadastrar">
+    </form>
+</body>
+</html>

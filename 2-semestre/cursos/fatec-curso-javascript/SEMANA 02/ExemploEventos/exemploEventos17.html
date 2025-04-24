@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> Aula de JavaScript </title>
+<script type="text/javascript" >
+function teste(){
+	if (form.nome.value==""){
+		alert("Favor preencher o NOME");
+		return(false);
+	} else {
+		return(true);
+	}
+}
+</script>
+</head>
+<body>
+<form name="form" onSubmit="teste()">
+	Digite seu Nome:
+	<input type="text" name="nome">
+	<br>
+	<input type="submit" value="Enviar">
+</form>
+</body>
+</html>

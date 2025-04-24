@@ -1,0 +1,29 @@
+<html>
+<head>
+<title> Aula de Javascript </title>
+<script type="text/javascript" >
+	function elemento(){
+		var no = document.getElementById("titulo");
+		no.style.color = '#FF0000';
+	}
+	
+	function fundo(){
+		var no = document.getElementById("titulo");
+		no.style.backgroundColor = '#00FF00';
+	}	
+	
+	function pagina(){
+		var no = document.getElementById("site");
+		no.style.backgroundColor = '#cccccc';
+	}	
+	
+</script>
+</head>
+<body id='site'>
+	<h3 id='titulo'> Minha Página Com Javascript </h3>
+	<hr>
+	<input type="button" value="Cor Título" onclick="elemento();" >
+	<input type="button" value="Cor de Fundo" onclick="fundo();" >	
+	<input type="button" value="Cor da Página" onclick="pagina();" >	
+</body>
+</html>

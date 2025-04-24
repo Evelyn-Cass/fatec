@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Média</title>
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <script src="assets/scripts/script.js" defer></script>
+</head>
+
+<body>
+    <h1>Calcular Média</h1>
+    <form action="media" action="#" method="post">
+        <label for="avaliacao1">Avaliação 1 (A1):</label>
+        <input type="text" name="avaliacao1" id="avaliacao1" />
+
+        <label for="avaliacao2">Avaliação 2 (A2):</label>
+        <input type="text" name="avaliacao2" id="avaliacao2" />
+
+        <label for="projeto1">Projeto 1 (P1):</label>
+        <input type="text" name="projeto1" id="projeto1" />
+
+        <label for="projeto2">Projeto 2 (P2):</label>
+        <input type="text" name="projeto2" id="projeto2" />
+
+        <label for="participacao">Participação Diária (PD):</label>
+        <input type="text" name="participacao" id="participacao" />
+        <div></div>
+        <div>
+            <button id="limpar" onclick="limpar()">Limpar</button>
+            <button id="calcularMedia" onclick="calcularMedia()">Calcular</button>
+    
+        </div>
+    </form>
+    <div class="container">
+        <p>
+            <span><b>Média Final:</b></span>
+            <span id="media"></span>
+        </p>
+
+        <p>
+            <span><b>Resultado Final:</b></span>
+            <span id="Resultado"></span>
+        </p>
+    </div>
+
+</html>

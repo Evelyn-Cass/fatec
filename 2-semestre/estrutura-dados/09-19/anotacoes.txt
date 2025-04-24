@@ -1,0 +1,58 @@
+Estruturas básicas: array, lista e pilhas.
+Estruturas de dados são a base de muitos algoritmos importantes.
+
+push() -> adiciona um ou mais elementos ao final do array;
+pop() -> remove o ultimo elemento de um array;
+shift() -> remove o primeiro elemento de um array;
+unshift() -> adiciona um ou mais elementos no inicio do array;
+
+# Pilhas(LIFO: Last In First Out)
+comandos usados:
+
+push() -> adiciona um ou mais elementos ao final do array;
+pop() -> remove o ultimo elemento de um array;
+peek() -> retorna o item no topo, sem remove;
+isEmpty() -> verifica se a pilha está vazio.
+
+# Fila (FIFO: First In First Out)
+comandos usados:
+
+No JavaScript, podemos usar o método push() para adicionar um elemento ao final da fila.
+Exemplo:
+javascript
+Copiar código
+let fila = [];
+fila.push(10); // [10]
+fila.push(20); // [10, 20]
+dequeue (remover do início da fila)
+
+O método shift() remove o primeiro elemento da fila e retorna o valor removido.
+Exemplo:
+javascript
+Copiar código
+let fila = [10, 20, 30];
+let removido = fila.shift(); // [20, 30], removido = 10
+front (obter o primeiro elemento da fila)
+
+Para visualizar o primeiro elemento da fila sem removê-lo, podemos acessar o primeiro índice do array (fila[0]).
+Exemplo:
+javascript
+Copiar código
+let fila = [20, 30, 40];
+let primeiro = fila[0]; // primeiro = 20
+size (tamanho da fila)
+
+O método length retorna o número de elementos na fila.
+Exemplo:
+javascript
+Copiar código
+let fila = [20, 30, 40];
+let tamanho = fila.length; // tamanho = 3
+isEmpty (verificar se a fila está vazia)
+
+Podemos verificar se a fila está vazia verificando se o tamanho (length) é 0.
+Exemplo:
+javascript
+Copiar código
+let fila = [];
+let estaVazia = fila.length === 0; // true
