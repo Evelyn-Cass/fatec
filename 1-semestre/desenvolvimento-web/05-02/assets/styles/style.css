@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+}
+
+header,
+footer {
+    width: 100%;
+    background-color: red;
+    height: 100px;
+}
+
+nav,
+aside,
+article {
+    background-color: aquamarine;
+    height: 600px;
+}
+
+nav {
+    width: 30%;
+    background-color: rosybrown;
+}
+
+article {
+    width: 50%;
+    background-color: beige;
+}
+
+aside {
+    width: 20%;
+    background-color: brown;
+}
+
+.container {
+    display: flex;
+}
+
+.container-inline {
+    display: inline-flex;
+}
+
+.item {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}

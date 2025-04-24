@@ -1,0 +1,59 @@
+video {
+    max-width: 100%;
+    max-height: 100%;
+    background-color: #ccc;
+}
+
+aside,
+article {
+    background: #eee;
+    width: 42%;
+    float: left;
+    margin: 1%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, .1);
+    text-align: center;
+    box-sizing: border-box;
+}
+
+article {
+    width: 54%;
+    text-align: left;
+    padding: 1%;
+}
+p{
+    margin-bottom: 5%;
+    line-height: 19.5px;
+    font-size: 16px;
+    font-weight: normal;
+}
+.fotos{
+    overflow: hidden;
+    clear: both;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, .1);
+}
+
+figure{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    float: left;
+    padding: 5px;
+    max-width: 30%;
+    margin: 1%;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+figcaption{
+    background-color: #222;
+    border-radius: 10px;
+    color: #fff;
+    padding: 3px;
+    text-align: center;
+}   

@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+/*
+***  SELETORES EM CSS *** 
+
+Uma linha de CSS é formdad por um bloco de delcaração,
+onde informamos o elemento HTML para a estilização, uma propriedade CSS e o valor dessa propriedade.
+
+h1: seletor // indica qual elemento html eu queri estilizar.
+color: propriedade css
+blue: valor;
+
+font-size: propriedade css
+12px: valor;
+
+h1 {
+    color: blue; 
+    font-size: 12px;
+}
+
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+header {
+    padding: 7px;
+    height: 60px;
+}
+
+header a {
+    text-decoration: none;
+    color: blue;
+}
+
+header a:hover{
+    color: white;
+    font-size: 20px;
+    transition: 0.4s;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    background-color: aqua;
+    align-items: center;
+}
+
+.form_container { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+fieldset {
+    width: 80px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 23px;
+    background: rgb(2,0,36);
+    background: linear-gradient(129deg, rgba(2,0,36,1) 0%, rgba(121,9,62,1) 46%, rgba(0,212,255,1) 100%);
+}
+
+legend {
+    color:white;
+    font-size: large;
+    font-style: oblique;
+}
+
+form  {
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+button {
+    border-radius: 15px;
+    background-color: white;
+    color:black;
+    width: 90px;
+    height: 40px;
+    cursor: pointer;
+}
+
+button:hover{
+    border-radius: 15px;
+    background-color: purple;
+    border-color: aliceblue;
+    color: white;
+    width: 180px;
+    height: 40px;
+    transition: 0.5s;
+    font-size: 17px;
+}
+
+.cent_button { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: aqua;
+    padding: 7px;
+    height: 60px;
+}

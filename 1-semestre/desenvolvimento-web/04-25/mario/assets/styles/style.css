@@ -1,0 +1,47 @@
+html,
+body {
+    height: 50%;
+    width: 50%;
+    margin: 0;
+}
+
+body {
+    height: 100%;
+    background-image: 
+        url("../imgs/mario.gif"),
+        url("../imgs/ground.png"),
+        url("../imgs/bushes.png"),  
+        url("../imgs/back.png");
+    background-color: #C89858;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-x;
+    background-position:
+        left 30% bottom 22px,
+        left 0px bottom 0px,
+        left 0px bottom 22px,
+        left 0px bottom 0px;
+    animation: back 15s infinite linear;
+}
+
+@keyframes back {
+    0% {
+        background-position:
+            left 30% bottom 22px,
+            left 0px bottom 0px,
+            left 0px bottom 22px,
+            left 0px bottom 0px;
+    }
+    50% {
+        background-position:
+            left 50% bottom 22px,
+            left -816px bottom 0px,
+            left -508px bottom 22px,
+            left -256px bottom 0px;
+    }
+    100%{
+        background-position:
+            left 30% bottom 22px,
+            left -1632px bottom 0px,
+            left -1016px bottom 22px,
+            left -512px bottom 0px;
+    }
+}

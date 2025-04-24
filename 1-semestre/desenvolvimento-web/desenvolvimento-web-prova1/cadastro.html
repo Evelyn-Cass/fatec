@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilos - Cadastro</title>
+    <link rel="icon" type="image/x-icon" href="assets/imgs/icon.ico">
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <link rel="stylesheet" href="assets/styles/style-cadastro.css">
+</head>
+
+<body>
+    <div class="topnav">
+        <a class="active" href="cadastro.html">Cadastro</a>
+        <a href="loja.html">Loja</a>
+        <a href="index.html">Home</a>
+    </div>
+    <main>
+        <h1>Cadastro</h1>
+        <form action="index.html" method="get">
+            <fieldset>
+                <label>
+                    Nome: <input type="text" name="txt_nome" placeholder="Nome Completo" required />
+                </label>
+                <label>
+                    E-mail: <input type="email" name="txt_email" placeholder="E-mail" required>
+                </label>
+                <label class="campo">
+                    Telefone: <input type="number" name="txt_number" placeholder="Telefone" required>
+                </label>
+                <label class="campo">
+                    Data de Nascimento: <input type="date" name="txt_data_nasc" required>
+                </label>
+                <label class="campo">
+                    CPF: <input type="number" name="txt_cpf" placeholder="Somente números" required>
+                </label>
+                <label class="campo">
+                    RG: <input type="number" name="txt_cpf" placeholder="Somente números" required>
+                </label>
+            </fieldset>
+            <fieldset>
+                <label class="campo">
+                    Rua: <input type="text" name="txt_rua" placeholder="Rua com número" required>
+                </label>
+                <label class="campo">
+                    Bairro: <input type="text" name="txt_bairro" placeholder="Bairro" required>
+                </label>
+                <label class="campo">
+                    Cidade: <input type="text" name="txt_cidade" placeholder="Cidade" required>
+                </label>
+                <label class="campo">
+                    Estado:
+                    <select>
+                        <option value="">Selecione</option>
+                        <option value="AL">Alagoas</option>
+                        <option value="AP">Amapá</option>
+                        <option value="AM">Amazonas</option>
+                        <option value="BA">Bahia</option>
+                        <option value="CE">Ceará</option>
+                        <option value="DF">Distrito Federal</option>
+                        <option value="ES">Espírito Santo</option>
+                        <option value="GO">Goiás</option>
+                        <option value="MA">Maranhão</option>
+                        <option value="MT">Mato Grosso</option>
+                        <option value="MS">Mato Grosso do Sul</option>
+                        <option value="MG">Minas Gerais</option>
+                        <option value="PA">Pará</option>
+                        <option value="PB">Paraíba</option>
+                        <option value="PR">Paraná</option>
+                        <option value="PE">Pernambuco</option>
+                        <option value="PI">Piauí</option>
+                        <option value="RJ">Rio de Janeiro</option>
+                        <option value="RN">Rio Grande do Norte</option>
+                        <option value="RS">Rio Grande do Sul</option>
+                        <option value="RO">Rondônia</option>
+                        <option value="RR">Roraima</option>
+                        <option value="SC">Santa Catarina</option>
+                        <option value="SP">São Paulo</option>
+                        <option value="SE">Sergipe</option>
+                        <option value="TO">Tocantins</option>
+                    </select>
+                </label>
+            </fieldset>
+            <p class="center">
+                <button type="submit" class="botao-enviar">Enviar</button>
+                <button type="reset">Limpar</button>
+            </p>
+        </form>
+</body>
+
+</html>

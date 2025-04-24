@@ -1,0 +1,3 @@
+SalarioBruto 
+desconto inss e imposto de renda
+mostrar valor dos descontos

@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    font: 12px "Verdana", Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+
+#lista-contatos {
+    margin: 0 auto;
+    width: 50%;
+    padding: 5px;
+}
+
+#lista-contatos table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 5px solid white;
+    border-radius: 30px;
+}
+
+thead {
+    background: white;
+    color: rosybrown;
+}
+
+#lista-contatos table tr {
+    border: 5px solid white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#lista-contatos table td {
+    padding: 5px;
+}
+
+#lista-contatos table td img {
+    width: 70px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+
+#lista-contatos table tbody tr {
+    background: white;
+    color: black;
+}
+
+#lista-contatos table tbody tr:hover {
+    background: rosybrown;
+    color: white;
+}
+
+.botao-remover-contato {
+    cursor: pointer;
+    text-align: center;
+    border: none !important;
+    width: 16px !important;
+}
+
+#formulario-cadastro-contato {
+    display: none;
+    margin: 0 auto;
+    width: 50%;
+}
+
+#formulario-cadastro-contato fieldset {
+    background: rosybrown;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 3%;
+}
+ 
+#formulario-cadastro-contato fieldset legend {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px 10px;
+    background: white;
+    font-weight: bold;
+    color: rosybrown;
+    text-transform: uppercase;
+}
+
+#formulario-cadastro-contato ul li {
+    display: inline-block;
+    padding: 5px 7% 5px 5%;
+}
+
+#formulario-cadastro-contato ul img {
+    width: 70px;
+    border: 2px solid white;
+    background: #fff;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+#formulario-cadastro-contato input {
+    display: block;
+    margin: 0 0 5px 0;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 5px 10px;
+    width: 98%;
+    color: black;
+}
+
+#formulario-cadastro-contato button {
+    float: right;
+    background: rosybrown;
+    border-color: white;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+    margin-right: 1vw;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#formulario-cadastro-contato button:hover {
+    background: white;
+    color: rosybrown;
+}
+
+
+.avatares {
+    border-radius: 310px;
+    border-color: white !important;
+    ;
+    margin: 3vh 0;
+    border: 2px solid white !important;
+    background: #ba9e9e !important;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+label {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin: 3vh;
+    color: rosybrown;
+}
+
+#mostrar-form-cadastro {
+    text-align: center;
+    border: 3px solid rosybrown;
+    border-radius: 30px;
+    margin: 0 42vw;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: rosybrown;
+    text-transform: uppercase;
+    font-weight: bold;
+    ;
+}
+
+#mostrar-form-cadastro:hover {
+    background: rosybrown;
+    color: white;
+}
+
+.fundo {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: -1;
+    background-color: beige;
+}

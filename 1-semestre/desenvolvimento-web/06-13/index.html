@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda</title>
+
+    <link rel="stylesheet" href="assets/styles/style.css">
+
+    <script src="assets/scripts/comportamento.js" defer></script>
+</head>
+<body>
+    
+    <div class="fundo"></div>
+
+    <main>
+        <br>
+        <br>
+        <header>
+            <a id="mostrar-form-cadastro" href="#">	+ Inserir Novo Contato</a>
+        </header>
+
+        <div id="formulario-cadastro-contato">
+            <fieldset>
+                <legend>Cadastrar um Novo Contato</legend>
+                <form id="form-contato" autocomplete="nope">
+                    <label for="nome">Nome</label>
+                    <input type="text" id="nome" name="nome" required>
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+                    <label for="telefone">Telefone</label>
+                    <input type="tel" id="telefone" name="telefono" required>
+                    <label for="cidade">Cidade</label>
+                    <input type="text" id="cidade" name="cidade" required>
+
+                    <fieldset class="avatares">
+                        <legend>Selecione um Avatar</legend>
+                        <ul>
+                            <li>
+                                <label>
+                                    <img src="assets/images/coelho.png">
+                                    <input type="radio" name="avatar_selecionado" value="coelho.png">
+                                </label>
+                            </li>
+                            <li>
+                                <label>
+                                    <img src="assets/images/panda.png">
+                                    <input type="radio" name="avatar_selecionado" value="panda.png">
+                                </label>
+                            </li>
+                            <li>
+                                <label>
+                                    <img src="assets/images/pato.png">
+                                    <input type="radio" name="avatar_selecionado" value="pato.png">
+                                </label>
+                            </li>
+                            <li>
+                                <label>
+                                    <img src="assets/images/urso.png">
+                                    <input type="radio" name="avatar_selecionado" value="urso.png">
+                                </label>
+                            </li>
+                        </ul>
+                    </fieldset>
+
+                    <button id="esconde-form-cadastro" type="button">Cancelar</button>
+                    <button type="submit">Salvar</button>
+
+                </form>
+            </fieldset>
+        </div>
+
+        <div id="lista-contatos">
+            <h1>Contatos Inseridos</h1>
+            <table id="tbl-contatos">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                        <th>Nome:</th>
+                        <th>Email:</th>
+                        <th>Telefone:</th>
+                        <th>Cidade:</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <img src="assets/images/cross.png" class="botao-remover-contato">
+                        </td>
+                        <td>
+                            <img src="assets/images/urso.png">
+                        </td>
+                        <td>
+                            Professor Tiago
+                        </td>
+                        <td>
+                            tiago.silva476@etec.sp.gov.br
+                        </td>
+                        <td>
+                            (16) 99999-9999
+                        </td>
+                        <td>
+                            Caraju
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+</body>
+</html>

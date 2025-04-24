@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hardware Harbor - Fale Conosco</title>
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <link rel="stylesheet" href="assets/styles/style_form.css">
+</head>
+
+<body>
+    <header>
+        <h1>Hardware Harbor</h1>
+        <menu>
+            <li>
+                <a class="menu_a" href="index.html">Home</a>
+            </li>
+            <li>
+                <a class="menu_a" href="loja.html">Loja</a>
+            </li>
+            <li>
+                <a class="menu_a" href="formulario.html">Cadastro</a>
+            </li>
+            <li>
+                <a class="menu_a" href="sobre.html">Sobre nós</a>
+            </li>
+            <li>
+                <a class="menu_a" href="contato.html">Fale conosco</a>
+            </li>
+        </menu>
+    </header>
+
+    <main class="main_contato">
+        <h4 class="main_contato_h4">Envie sua mensagem</h4>
+        <h5 class="main_contato_h5">Preencha o formulário abaixo que iremos retornar o seu contato</h5>
+        <form action="index.html" method="get">
+            <fieldset class="fieldset_contato">
+                <label>
+                    Nome:<input type="text" name="txt_nome" placeholder="Nome" required />
+                </label>
+                <label>
+                    E-mail:<input type="email" name="txt_email" placeholder="E-mail" required />
+                </label>
+                <label>
+                    Telefone:<input type="number" name="txt_telefone" placeholder="Somente números..." required />
+                </label>
+                <label class="label-50">
+                    Mensagem: </label>
+                    <textarea name="txt_conteudo" cols="30" rows="10"
+                    placeholder="Digite uma menssagem...." required></textarea>
+
+                <div class="div_concordo">
+                    <input class="checkbox" type="checkbox" name="ckbox_concordo" required>
+                    <label class="label_declaro">Declaro que estou ciente do envio do formulário conforme a Política de
+                        Privacidade.</label>
+                </div>
+            </fieldset>
+            <p class="center">
+                <button type="submit" class="botao-enviar">Enviar</button>
+                <button type="reset">Limpar</button>
+            </p>
+        </form>
+    </main>
+    <footer>
+        Loja de Hardware Ltda
+        <address>
+            Rua Fatec, 286 - Jaú - <abbr title="São Paulo - Brasil">São Paulo</abbr>
+        </address>
+    </footer>
+
+</body>
+
+</html>

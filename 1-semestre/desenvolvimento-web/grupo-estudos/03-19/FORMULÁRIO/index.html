@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+
+    <header id="topo"> <!--Topo da página-->
+        <h2>TOPO DA PÁGINA</h2>
+        LINKS:
+        <a href="https://www.w3schools.com/html/html_forms.asp" target="_blank"> W3SCHOOLS</a> |
+        <a href="#inputs">TIPOS DE INPUTS</a> |
+        <a href="https://github.com/AmericoGodoyG/HTML/tree/main" target="_blank">GITHUB HTML</a>
+    </header>
+
+    <main>
+        <!--
+            fildset - Exibe um contorno ao redor do formulário
+            legend - Exibe uma legenda ao Formulário
+            label - Representa uma legenda para item em uma interface de usuário.
+
+            <h3>Um formuláro HTML é usado para <mark> coletar informações do usuário</mark>, <br>para logo apóes ser preocessado por um servidor!</h3>
+        -->
+        <div class="form_container">
+            <fieldset>
+                <legend>Cadastro</legend>
+                <form action="#" method="get" target="_blank" autocomplete="on">
+
+                    <label for="">Nome:</label>
+                    <input type="text" name="nome" value="Insira seu nome:"><br><br>
+
+                    <label for="">Telefone:</label>
+                    <input type="text" name="telefone" value="Ex: 14 9999-9999"><br><br>
+
+                    <label for="">Endereço:</label>
+                    <input type="text" name="endereco" value="Rua: "><br><br>
+
+                    <label for=""></label>
+                    Masculino: <input type="radio" name="sexo" value="M">
+                    Feminino: <input type="radio" name="sexo" value="F"><br><br>
+
+                    <label for="">Estado:</label>
+                    <select id="estado" name="estado">
+                        <option value="selecione">Selecione um Estado</option>
+                        <option value="AC">Acre</option>
+                        <option value="AL">Alagoas</option>
+                        <option value="AP">Amapá</option>
+                        <option value="AM">Amazonas</option>
+                        <option value="BA">Bahia</option>
+                        <option value="CE">Ceará</option>
+                        <option value="DF">Distrito Federal</option>
+                        <option value="ES">Espírito Santo</option>
+                        <option value="GO">Goiás</option>
+                        <option value="MA">Maranhão</option>
+                        <option value="MT">Mato Grosso</option>
+                        <option value="MS">Mato Grosso do Sul</option>
+                        <option value="MG">Minas Gerais</option>
+                        <option value="PA">Pará</option>
+                        <option value="PB">Paraíba</option>
+                        <option value="PR">Paraná</option>
+                        <option value="PE">Pernambuco</option>
+                        <option value="PI">Piauí</option>
+                        <option value="RJ">Rio de Janeiro</option>
+                        <option value="RN">Rio Grande do Norte</option>
+                        <option value="RS">Rio Grande do Sul</option>
+                        <option value="RO">Rondônia</option>
+                        <option value="RR">Roraima</option>
+                        <option value="SC">Santa Catarina</option>
+                        <option value="SP">São Paulo</option>
+                        <option value="SE">Sergipe</option>
+                        <option value="TO">Tocantins</option>
+                        <option value="EX">Estrangeiro</option>
+                    </select>   <br><br>
+
+                    <textarea name="feedback" id="" cols="40" rows="10">
+                        TEXTO:
+                    </textarea> <br><br>
+
+                    <div class="cent_button">
+                        <button type="submit">ENVIAR</button>
+                    </div>
+                </form>
+            </fieldset>
+        </div>
+
+        <div class="form_container">
+            <fieldset>
+                <legend>Tipos de Inputs</legend>
+                <form action="#" method="get" target="_blank" id="inputs" autocomplete="on">
+                    <label>TEXTO:</label> <!-- campo de texto -->
+                    <input type="text" /> <br><br>
+
+                    <label>NUMERO:</label>
+                    <!-- seleção de numeros | ATRIBUTOS: min: minimo, max: máximo, step: qtde pulados -->
+                    <input type="number" min="0" max="" step="5" /> <br> <br>
+
+                    <label>BARRA:</label>
+                    <input type="range" min="0" max="100"> <br> <br>
+
+                    <label>CAIXA DE COR:</label>
+                    <input type="color"> <br> <br>
+
+                    <label>E-MAIL:</label> <!-- somente email -->
+                    <input type="email" /> <br> <br>
+
+                    <label>URL</label> <!-- somente url -->
+                    <input type="url"> <br> <br>
+
+                    <label>DATA</label> <!-- importa o estilo da data de acordo com a linguagem padrao do pc-->
+                    <input type="date"> <br> <br>
+
+                    <label>Semana</label>
+                    <input type="week"> <br> <br>
+
+                    <label>MÊS:</label> <!-- mes -->
+                    <input type="month"> <br> <br>
+
+                    <label>CHECK BOX 1:</label>
+                    <input type="checkbox"> <br> <br> <!-- seleciona mais de uma opção -->
+                    <label>CHECK BOX 2:</label>
+                    <input type="checkbox"> <br> <br> <!-- seleciona mais de uma opção -->
+
+                    <label>RADIO: </label>
+                    <input type="radio" name="mesmo"> <br> <br>
+
+                    <label>RADIO: </label>
+                    <input type="radio" name="mesmo"> <br> <br>
+
+                    <label>ARQUIVO: </label><!-- multiple selciona mais de um arquivo -->
+                    <input type="file" multiple /> <br> <br>
+
+                    <label>BUSCA: </label><!-- campo de busca-->
+                    <input type="search"> <br> <br>
+
+                    <label>BOTÃO:</label>
+                    <button> ENVIAR </button> <br> <br> <!-- Semanticamente adequado para exibir um botao-->
+
+                </form>
+            </fieldset>
+        </div>
+    </main>
+
+    <footer>
+        <h2>RODAPÉ DA PÁGINA</h2>
+        <a href="#topo">TOPO</a> <!--Volta ao topo da página.-->
+    </footer>
+
+</html>
