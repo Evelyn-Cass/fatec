@@ -1,0 +1,15 @@
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\bin\Debug\net9.0\Exercicio2.exe
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\bin\Debug\net9.0\Exercicio2.deps.json
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\bin\Debug\net9.0\Exercicio2.runtimeconfig.json
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\bin\Debug\net9.0\Exercicio2.dll
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\bin\Debug\net9.0\Exercicio2.pdb
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\Exercicio2.AssemblyInfoInputs.cache
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\Exercicio2.AssemblyInfo.cs
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\Exercicio2.csproj.CoreCompileInputs.cache
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\Exercicio2.sourcelink.json
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\Exercicio2.dll
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\refint\Exercicio2.dll
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\Exercicio2.pdb
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\Exercicio2.genruntimeconfig.cache
+D:\Projetos\FATEC\fatec\3-semestre\tecnicas-programacao-ii\atividades\Atividade03\Atividade03\Exercicio2\obj\Debug\net9.0\ref\Exercicio2.dll
