@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FATEC\\preparacao_aula\\PetMongodb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\views\\user\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\views\\user\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\views\\shared\\_loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\views\\shared\\_loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|c:\\fatec\\preparacao_aula\\petmongodb\\petmongodb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C901F0AE-70D9-433B-9DDF-A6C184429807}|PetMongodb\\PetMongodb.csproj|solutionrelative:petmongodb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginAdmin.cshtml",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\Shared\\_LoginAdmin.cshtml",
+              "RelativeDocumentMoniker": "PetMongodb\\Views\\Shared\\_LoginAdmin.cshtml",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\Shared\\_LoginAdmin.cshtml",
+              "RelativeToolTip": "PetMongodb\\Views\\Shared\\_LoginAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T01:37:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetMongodb\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "PetMongodb\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T00:34:32.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "PetMongodb\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "PetMongodb\\Controllers\\PetsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:56:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetMongodb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetMongodb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADUAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T00:51:49.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRole.cshtml",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\User\\CreateRole.cshtml",
+              "RelativeDocumentMoniker": "PetMongodb\\Views\\User\\CreateRole.cshtml",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\User\\CreateRole.cshtml",
+              "RelativeToolTip": "PetMongodb\\Views\\User\\CreateRole.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T00:31:48.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PetMongodb\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PetMongodb\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:16:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PetMongodb\\Models\\User.cs",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Models\\User.cs",
+              "RelativeToolTip": "PetMongodb\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:14:54.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "PetMongodb\\Models\\UserRole.cs",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Models\\UserRole.cs",
+              "RelativeToolTip": "PetMongodb\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:14:05.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "PetMongodb\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "PetMongodb\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:13:20.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetMongodb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PetMongodb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T23:05:56.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "PetMongodb\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\FATEC\\preparacao_aula\\PetMongodb\\PetMongodb\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "PetMongodb\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-16T22:52:12.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

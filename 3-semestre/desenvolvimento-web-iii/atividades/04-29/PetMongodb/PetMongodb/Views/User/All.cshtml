@@ -1,0 +1,37 @@
+﻿@model IEnumerable<PetMongodb.Models.User>
+
+    @{
+    ViewData["Title"] = "Usuários";
+    }
+    <section>
+        <h1 style="text-align:center;margin-bottom:50px;margin-top:25px;">Usuários Cadastrados</h1>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.NomeCompleto)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Celular)
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model) {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NomeCompleto)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Celular)
+                        </td>
+                    </tr>
+}
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+

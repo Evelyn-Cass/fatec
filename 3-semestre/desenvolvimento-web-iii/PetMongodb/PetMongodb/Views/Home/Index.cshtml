@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+<section class="meu-container">
+<div class="home">
+    <h1>Bem-vindo ao meu pet sumiu</h1>
+    <h3>Encontre seu melhor amigo!</h3>
+</div>
+<div class="home-card">
+<div class="card-container">
+    <div class="card">
+       
+        <div class="card-body">
+            <h3>Perdi Meu Pet</h3>
+            <h3 class="card-title">Quero encontrar</h3><br />
+            
+            <a class="btn-meu" asp-area="" asp-controller="Pets" asp-action="Create" asp-route-situacao="Perdido">Cadastre o Pet</a>
+        </div>
+    </div>
+    <div class="card">
+       
+        <div class="card-body">
+            <h3>Encontrei Um Pet</h3>
+            <h3 class="card-title">Quero encontrar o tutor</h3><br />
+                <a class="btn-meu" asp-area="" asp-controller="Pets" asp-action="Create" asp-route-situacao="Procurando Tutor">Cadastre o Pet</a>
+
+        </div>
+    </div>
+</div>
+</div>
+</section>

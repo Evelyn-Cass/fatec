@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PetMongodb",
+    "\\PetMongodb\\Controllers",
+    "\\PetMongodb\\Views",
+    "\\PetMongodb\\Views\\Pets",
+    "\\PetMongodb\\Views\\Shared",
+    "\\PetMongodb\\Views\\User"
+  ],
+  "SelectedNode": "\\PetMongodb.sln",
+  "PreviewInSolutionExplorer": false
+}
