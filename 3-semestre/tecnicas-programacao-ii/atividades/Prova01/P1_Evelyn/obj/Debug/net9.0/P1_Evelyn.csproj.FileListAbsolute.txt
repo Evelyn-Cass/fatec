@@ -1,0 +1,14 @@
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\bin\Debug\net9.0\P1_Evelyn.exe
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\bin\Debug\net9.0\P1_Evelyn.deps.json
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\bin\Debug\net9.0\P1_Evelyn.runtimeconfig.json
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\bin\Debug\net9.0\P1_Evelyn.dll
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\bin\Debug\net9.0\P1_Evelyn.pdb
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\P1_Evelyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\P1_Evelyn.AssemblyInfoInputs.cache
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\P1_Evelyn.AssemblyInfo.cs
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\P1_Evelyn.csproj.CoreCompileInputs.cache
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\P1_Evelyn.dll
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\refint\P1_Evelyn.dll
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\P1_Evelyn.pdb
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\P1_Evelyn.genruntimeconfig.cache
+C:\Users\0201392411004\Desktop\P1_Evelyn\P1_Evelyn\obj\Debug\net9.0\ref\P1_Evelyn.dll
