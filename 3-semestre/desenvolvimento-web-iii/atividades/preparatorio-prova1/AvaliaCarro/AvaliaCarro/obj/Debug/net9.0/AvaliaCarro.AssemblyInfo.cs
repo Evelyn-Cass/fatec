@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvaliaCarro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e170dfb7718c42875a308b9a57083227a56b9cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a241223f95f2dc9b1d6302edef305f051d4a88")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvaliaCarro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvaliaCarro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

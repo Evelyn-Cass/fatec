@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj": {}
+    "D:\\Projetos\\FATEC\\fatec\\3-semestre\\desenvolvimento-web-iii\\atividades\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj": {
+    "D:\\Projetos\\FATEC\\fatec\\3-semestre\\desenvolvimento-web-iii\\atividades\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj",
+        "projectUniqueName": "D:\\Projetos\\FATEC\\fatec\\3-semestre\\desenvolvimento-web-iii\\atividades\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj",
         "projectName": "LojaGame",
-        "projectPath": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj",
+        "projectPath": "D:\\Projetos\\FATEC\\fatec\\3-semestre\\desenvolvimento-web-iii\\atividades\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj",
         "packagesPath": "C:\\Users\\Evelyn - PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\obj\\",
+        "outputPath": "D:\\Projetos\\FATEC\\fatec\\3-semestre\\desenvolvimento-web-iii\\atividades\\preparatorio-prova1\\Game\\Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

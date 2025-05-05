@@ -219,5 +219,33 @@ namespace PetMongodb.Controllers
         {
             return _context.Pet.Find(e => e.Id == id).Any();
         }
+        // POST: Pets/MudarSituacao/5
+     
+        public async Task<IActionResult> MudarSituacao(Guid id, string situacao)
+        {
+            if (id == Guid.Empty || string.IsNullOrEmpty(situacao))
+            {
+                return BadRequest("Id ou situação inválidos.");
+            }
+
+            var pet = await _context.Pet.Find(m => m.Id == id).FirstOrDefaultAsync();
+            if (pet == null)
+            {
+                return NotFound("Pet não encontrado.");
+            }
+
+            pet.Situacao = situacao;
+
+            try
+            {
+                await _context.Pet.ReplaceOneAsync(m => m.Id == pet.Id, pet);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro ao atualizar a situação: {ex.Message}");
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

@@ -3,7 +3,7 @@
 @{
     ViewData["Title"] = "Achados e Perdidos";
 }
-    <section class="achados-perdidos">
+<section class="achados-perdidos">
     <h1 style="text-align:center;margin-bottom:50px;margin-top:25px;">Achados e Perdidos</h1>
     <div class="d-flex flex-wrap justify-content-start align-items-lg-start gap-4">
         @foreach (var item in Model)
@@ -15,17 +15,27 @@
                     <img src="@("/" + item.Imagem)" class="card-img-top" style="width:200px;height:200px;" alt="...">
                 </div>
                 <div class="card-body">
-                    
+
                     @if(item.Nome != null)
                     {
                         <p class="card-text fw-bold fs-5">@item.Nome</p>
                     }
                     else
                     {
-                        
+
                         <p class="card-text fw-bold fs-5">Nome não informado</p>
                     }
-                <a href="#" class="btn btn-primary">Ver Detalhes</a>
+                    @if (item.Situacao == "Procurando Tutor")  
+                    {  
+                      <a class="btn btn-primary" asp-controller="Pets" asp-action="MudarSituacao" asp-route-id="@item.Id" asp-route-situacao="Encontrado">Sou o Tutor</a>  
+                    }  
+                    @if (item.Situacao == "Perdido")  
+                    {  
+                      <a class="btn btn-primary" asp-controller="Pets" asp-action="MudarSituacao" asp-route-id="@item.Id" asp-route-situacao="Encontrado">Encontrei o Pet</a>  
+                    }
+
+
+                    
             </div>
         </div>
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8kFby8d0gbg=",
+  "dgSpecHash": "/hyEyNtEbVM=",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\FATEC\\fatec-semestre3-c-\\Desenvolvidos pela aluna\\Exercicios\\Desenvolvimento Web II\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj",
+  "projectFilePath": "D:\\Projetos\\FATEC\\fatec\\3-semestre\\desenvolvimento-web-iii\\atividades\\preparatorio-prova1\\Game\\Game\\LojaGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evelyn - PC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Evelyn - PC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

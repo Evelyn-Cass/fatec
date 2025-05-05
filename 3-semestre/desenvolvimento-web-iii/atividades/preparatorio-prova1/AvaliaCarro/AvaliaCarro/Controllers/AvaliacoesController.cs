@@ -8,12 +8,29 @@ namespace AvaliaCarro.Controllers
     public class AvaliacoesController : Controller
     {
         ContextMongoDb _context = new ContextMongoDb();
+
         // GET: Avaliacoes
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Avaliacoes.Find(u => true).ToListAsync());
-        }
+            var avaliacoes = await _context.Avaliacoes.Find(u => true).ToListAsync();
+            if (avaliacoes == null)
+            {
+                return NotFound();
+            }
 
+            var avaliacoesComCarro = new List<dynamic>();
+            foreach (var avaliacao in avaliacoes)
+            {
+                var carro = await _context.Carros.Find(c => c.id.ToString() == avaliacao.IdCarro).FirstOrDefaultAsync();
+                avaliacoesComCarro.Add(new
+                {
+                    Avaliacao = avaliacao,
+                    Carro = carro?.Nome ?? "Carro não encontrado"
+                });
+            }
+
+            return View(avaliacoesComCarro);
+        }
 
         // GET: Avaliacoes/Create
         public IActionResult Create(string carroid)
@@ -24,8 +41,6 @@ namespace AvaliaCarro.Controllers
         }
 
         // POST: Avaliacoes/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("id,Data,Nota,IdCarro")] Avaliacao avaliacao)

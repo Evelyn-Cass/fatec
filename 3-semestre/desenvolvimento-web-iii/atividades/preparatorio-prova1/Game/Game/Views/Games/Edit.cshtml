@@ -19,8 +19,10 @@
                 <span asp-validation-for="Nome" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="IdConsole" class="control-label"></label>
-                <input asp-for="IdConsole" class="form-control" />
+                <label class="control-label">Consoles</label>
+                <select asp-for="IdConsole" class="form-control" asp-items="ViewBag.GameConsole">
+                    <option value="">-- Select a Console --</option>
+                </select>
                 <span asp-validation-for="IdConsole" class="text-danger"></span>
             </div>
             <div class="form-group">

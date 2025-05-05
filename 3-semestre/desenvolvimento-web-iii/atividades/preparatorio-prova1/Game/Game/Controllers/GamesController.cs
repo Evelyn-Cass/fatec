@@ -51,6 +51,15 @@ namespace LojaGame.Controllers
                 return NotFound();
             }
 
+            if (Guid.TryParse(game.IdConsole, out Guid consoleId))
+            {
+                game.GameConsole = await _context.GameConsoles.FindAsync(consoleId);
+            }
+            else
+            {
+                game.GameConsole = null;
+            }
+
             return View(game);
         }
 
@@ -91,6 +100,7 @@ namespace LojaGame.Controllers
             {
                 return NotFound();
             }
+            ViewBag.GameConsole = new SelectList(_context.GameConsoles, "Id", "Descritivo");
             return View(game);
         }
 
@@ -142,6 +152,15 @@ namespace LojaGame.Controllers
             if (game == null)
             {
                 return NotFound();
+            }
+
+            if (Guid.TryParse(game.IdConsole, out Guid consoleId))
+            {
+                game.GameConsole = await _context.GameConsoles.FindAsync(consoleId);
+            }
+            else
+            {
+                game.GameConsole = null;
             }
 
             return View(game);
