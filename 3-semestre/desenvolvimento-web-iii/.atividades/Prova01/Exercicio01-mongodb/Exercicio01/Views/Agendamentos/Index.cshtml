@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Exercicio01.Models.Agendamento>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NomePaciente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CelularPaciente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdMedico)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomePaciente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CelularPaciente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdMedico)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

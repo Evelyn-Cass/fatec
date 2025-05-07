@@ -1,0 +1,42 @@
+﻿@model exercicio02_mysql.Models.Chamado_Tecnico
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Chamado_Tecnico</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataAtribuicao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataAtribuicao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Situacao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Situacao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tecnico)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tecnico.TecnicoId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Chamado)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Chamado.ChamadoId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Chamado_TecnicoId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
