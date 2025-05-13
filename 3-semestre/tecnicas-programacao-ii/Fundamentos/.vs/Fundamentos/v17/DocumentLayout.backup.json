@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\",
+  "WorkspaceRootPath": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10191AAB-0CFA-405A-9C1A-BF8FF23920E7}|Composicao2\\Composicao2.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\fundamentos\\composicao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10191AAB-0CFA-405A-9C1A-BF8FF23920E7}|Composicao2\\Composicao2.csproj|solutionrelative:composicao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F64617C-2332-49AD-9E6D-E67167C52FF9}|composicao\\composicao.csproj|c:\\projetos\\fatec\\c#\\desenvolvidos pela aluna\\fundamentos\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F64617C-2332-49AD-9E6D-E67167C52FF9}|composicao\\composicao.csproj|solutionrelative:composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEA6708E-DA88-4A1D-BC95-FDA9C9F88A73}|TEventHandler Status\\TEventHandler Status.csproj|c:\\projetos\\fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\fundamentos\\teventhandler status\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA6708E-DA88-4A1D-BC95-FDA9C9F88A73}|TEventHandler Status\\TEventHandler Status.csproj|solutionrelative:teventhandler status\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\Composicao2\\Program.cs",
-              "RelativeDocumentMoniker": "Composicao2\\Program.cs",
-              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\Composicao2\\Program.cs",
-              "RelativeToolTip": "Composicao2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\TEventHandler Status\\Program.cs",
+              "RelativeDocumentMoniker": "TEventHandler Status\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\TEventHandler Status\\Program.cs",
+              "RelativeToolTip": "TEventHandler Status\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwEEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T13:48:56.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\composicao\\Program.cs",
-              "RelativeDocumentMoniker": "composicao\\Program.cs",
-              "ToolTip": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\composicao\\Program.cs",
-              "RelativeToolTip": "composicao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T13:19:33.411Z",
+              "WhenOpened": "2025-05-12T15:17:00.033Z",
               "EditorCaption": ""
             }
           ]

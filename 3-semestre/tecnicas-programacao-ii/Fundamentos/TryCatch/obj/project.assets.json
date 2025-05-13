@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\TryCatch\\TryCatch.csproj",
+      "projectUniqueName": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\TryCatch\\TryCatch.csproj",
       "projectName": "TryCatch",
-      "projectPath": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\TryCatch\\TryCatch.csproj",
+      "projectPath": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\TryCatch\\TryCatch.csproj",
       "packagesPath": "C:\\Users\\Avell\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\TryCatch\\obj\\",
+      "outputPath": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\TryCatch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

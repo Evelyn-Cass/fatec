@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\bin\Debug\net9.0\Evento.exe
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\bin\Debug\net9.0\Evento.deps.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\bin\Debug\net9.0\Evento.runtimeconfig.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\bin\Debug\net9.0\Evento.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\bin\Debug\net9.0\Evento.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\Evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\Evento.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\Evento.AssemblyInfo.cs
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\Evento.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\Evento.sourcelink.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\Evento.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\refint\Evento.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\Evento.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\Evento.genruntimeconfig.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Evento\obj\Debug\net9.0\ref\Evento.dll

@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\TEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\TEventHandler.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\TEventHandler.AssemblyInfo.cs
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\TEventHandler.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\TEventHandler.sourcelink.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\bin\Debug\net9.0\TEventHandler.exe
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\bin\Debug\net9.0\TEventHandler.deps.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\bin\Debug\net9.0\TEventHandler.runtimeconfig.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\bin\Debug\net9.0\TEventHandler.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\bin\Debug\net9.0\TEventHandler.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\TEventHandler.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\refint\TEventHandler.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\TEventHandler.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\TEventHandler.genruntimeconfig.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler\obj\Debug\net9.0\ref\TEventHandler.dll

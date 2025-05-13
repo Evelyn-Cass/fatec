@@ -13,3 +13,18 @@ C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Composicao2\obj\Debug\
 C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.pdb
 C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.genruntimeconfig.cache
 C:\Projetos\Fatec\C#\Desenvolvidos pela aluna\Fundamentos\Composicao2\obj\Debug\net9.0\ref\Composicao2.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\bin\Debug\net9.0\Composicao2.exe
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\bin\Debug\net9.0\Composicao2.deps.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\bin\Debug\net9.0\Composicao2.runtimeconfig.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\bin\Debug\net9.0\Composicao2.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\bin\Debug\net9.0\Composicao2.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.AssemblyInfo.cs
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.sourcelink.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\refint\Composicao2.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\Composicao2.genruntimeconfig.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Composicao2\obj\Debug\net9.0\ref\Composicao2.dll

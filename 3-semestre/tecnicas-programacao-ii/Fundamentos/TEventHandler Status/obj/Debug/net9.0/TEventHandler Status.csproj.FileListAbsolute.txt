@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\bin\Debug\net9.0\TEventHandler Status.exe
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\bin\Debug\net9.0\TEventHandler Status.deps.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\bin\Debug\net9.0\TEventHandler Status.runtimeconfig.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\bin\Debug\net9.0\TEventHandler Status.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\bin\Debug\net9.0\TEventHandler Status.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\TEventHandler Status.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\TEventHandler Status.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\TEventHandler Status.AssemblyInfo.cs
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\TEventHandler Status.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\TEventHandler Status.sourcelink.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\TEventHandler Status.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\refint\TEventHandler Status.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\TEventHandler Status.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\TEventHandler Status.genruntimeconfig.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\TEventHandler Status\obj\Debug\net9.0\ref\TEventHandler Status.dll

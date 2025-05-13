@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomExecption")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd8efa48acae908028033427519dde941626eee3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b73eb97a8151e4115d2f84bb2589d46155fa34d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomExecption")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomExecption")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

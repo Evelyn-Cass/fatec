@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\bin\Debug\net9.0\Delegate.exe
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\bin\Debug\net9.0\Delegate.deps.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\bin\Debug\net9.0\Delegate.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\bin\Debug\net9.0\Delegate.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\Delegate.sourcelink.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\Delegate.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\Delegate.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\Delegate\obj\Debug\net9.0\ref\Delegate.dll

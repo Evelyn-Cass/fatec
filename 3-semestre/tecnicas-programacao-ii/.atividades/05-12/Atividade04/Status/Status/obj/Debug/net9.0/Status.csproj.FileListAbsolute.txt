@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\bin\Debug\net9.0\Status.exe
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\bin\Debug\net9.0\Status.deps.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\bin\Debug\net9.0\Status.runtimeconfig.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\bin\Debug\net9.0\Status.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\bin\Debug\net9.0\Status.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\Status.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\Status.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\Status.AssemblyInfo.cs
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\Status.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\Status.sourcelink.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\Status.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\refint\Status.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\Status.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\Status.genruntimeconfig.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\atividades\05-12\Atividade04\Status\Status\obj\Debug\net9.0\ref\Status.dll

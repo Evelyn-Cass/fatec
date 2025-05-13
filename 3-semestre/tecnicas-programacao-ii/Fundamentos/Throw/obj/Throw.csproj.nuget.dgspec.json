@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\Throw\\Throw.csproj": {}
+    "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\Throw\\Throw.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\Throw\\Throw.csproj": {
+    "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\Throw\\Throw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\Throw\\Throw.csproj",
+        "projectUniqueName": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\Throw\\Throw.csproj",
         "projectName": "Throw",
-        "projectPath": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\Throw\\Throw.csproj",
+        "projectPath": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\Throw\\Throw.csproj",
         "packagesPath": "C:\\Users\\Avell\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Fatec\\C#\\Desenvolvidos pela aluna\\Fundamentos\\Throw\\obj\\",
+        "outputPath": "C:\\Projetos\\Fatec\\fatec\\3-semestre\\tecnicas-programacao-ii\\Fundamentos\\Throw\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

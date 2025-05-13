@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\bin\Debug\net9.0\EventHandler.exe
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\bin\Debug\net9.0\EventHandler.deps.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\bin\Debug\net9.0\EventHandler.runtimeconfig.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\bin\Debug\net9.0\EventHandler.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\bin\Debug\net9.0\EventHandler.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\EventHandler.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\EventHandler.AssemblyInfo.cs
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\EventHandler.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\EventHandler.sourcelink.json
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\EventHandler.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\refint\EventHandler.dll
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\EventHandler.pdb
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\EventHandler.genruntimeconfig.cache
+C:\Projetos\Fatec\fatec\3-semestre\tecnicas-programacao-ii\Fundamentos\EventHandler\obj\Debug\net9.0\ref\EventHandler.dll
