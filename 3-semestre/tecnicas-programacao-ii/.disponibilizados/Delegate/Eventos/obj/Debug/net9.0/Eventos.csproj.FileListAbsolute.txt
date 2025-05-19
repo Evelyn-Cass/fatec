@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\bin\Debug\net9.0\Eventos.exe
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\bin\Debug\net9.0\Eventos.deps.json
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\bin\Debug\net9.0\Eventos.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\bin\Debug\net9.0\Eventos.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\bin\Debug\net9.0\Eventos.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\Eventos.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\Eventos.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\Eventos.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\Eventos.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\refint\Eventos.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\Eventos.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\Eventos.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Eventos\obj\Debug\net9.0\ref\Eventos.dll

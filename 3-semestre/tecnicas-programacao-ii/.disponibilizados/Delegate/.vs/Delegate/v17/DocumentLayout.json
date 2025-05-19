@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{844269AF-F23D-44BE-B127-DA55DD06B48A}|Solucao_Exercicio_status\\Solucao_Exercicio_status.csproj|c:\\fatec\\tecnica_programacao_ii\\delegate\\solucao_exercicio_status\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844269AF-F23D-44BE-B127-DA55DD06B48A}|Solucao_Exercicio_status\\Solucao_Exercicio_status.csproj|solutionrelative:solucao_exercicio_status\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E5B12-4EF7-44CF-BE9C-52FE805C2E2E}|EventHandleComDados\\EventHandleComDados.csproj|c:\\fatec\\tecnica_programacao_ii\\delegate\\eventhandlecomdados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E5B12-4EF7-44CF-BE9C-52FE805C2E2E}|EventHandleComDados\\EventHandleComDados.csproj|solutionrelative:eventhandlecomdados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE6A0D-6D94-4EAA-A4AA-06BB6137D33C}|EventHandlerSemDados\\EventHandlerSemDados.csproj|c:\\fatec\\tecnica_programacao_ii\\delegate\\eventhandlersemdados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE6A0D-6D94-4EAA-A4AA-06BB6137D33C}|EventHandlerSemDados\\EventHandlerSemDados.csproj|solutionrelative:eventhandlersemdados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149CFA36-FCA3-4E42-B880-D97D431BDC18}|Eventos\\Eventos.csproj|c:\\fatec\\tecnica_programacao_ii\\delegate\\eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149CFA36-FCA3-4E42-B880-D97D431BDC18}|Eventos\\Eventos.csproj|solutionrelative:eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\Solucao_Exercicio_status\\Program.cs",
+              "RelativeDocumentMoniker": "Solucao_Exercicio_status\\Program.cs",
+              "ToolTip": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\Solucao_Exercicio_status\\Program.cs",
+              "RelativeToolTip": "Solucao_Exercicio_status\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:48:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\EventHandleComDados\\Program.cs",
+              "RelativeDocumentMoniker": "EventHandleComDados\\Program.cs",
+              "ToolTip": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\EventHandleComDados\\Program.cs",
+              "RelativeToolTip": "EventHandleComDados\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:57:08.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\EventHandlerSemDados\\Program.cs",
+              "RelativeDocumentMoniker": "EventHandlerSemDados\\Program.cs",
+              "ToolTip": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\EventHandlerSemDados\\Program.cs",
+              "RelativeToolTip": "EventHandlerSemDados\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:46:29.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\Eventos\\Program.cs",
+              "RelativeDocumentMoniker": "Eventos\\Program.cs",
+              "ToolTip": "C:\\FATEC\\Tecnica_programacao_II\\Delegate\\Eventos\\Program.cs",
+              "RelativeToolTip": "Eventos\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:41:48.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

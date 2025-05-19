@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\bin\Debug\net9.0\Delegate.exe
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\bin\Debug\net9.0\Delegate.deps.json
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\bin\Debug\net9.0\Delegate.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\bin\Debug\net9.0\Delegate.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\Delegate.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\Delegate.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Delegate\obj\Debug\net9.0\ref\Delegate.dll

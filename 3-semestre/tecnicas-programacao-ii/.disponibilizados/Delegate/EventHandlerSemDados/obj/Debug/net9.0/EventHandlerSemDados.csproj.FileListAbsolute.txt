@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\bin\Debug\net9.0\EventHandlerSemDados.exe
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\bin\Debug\net9.0\EventHandlerSemDados.deps.json
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\bin\Debug\net9.0\EventHandlerSemDados.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\bin\Debug\net9.0\EventHandlerSemDados.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\bin\Debug\net9.0\EventHandlerSemDados.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\EventHandlerSemDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\EventHandlerSemDados.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\EventHandlerSemDados.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\EventHandlerSemDados.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\EventHandlerSemDados.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\refint\EventHandlerSemDados.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\EventHandlerSemDados.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\EventHandlerSemDados.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandlerSemDados\obj\Debug\net9.0\ref\EventHandlerSemDados.dll

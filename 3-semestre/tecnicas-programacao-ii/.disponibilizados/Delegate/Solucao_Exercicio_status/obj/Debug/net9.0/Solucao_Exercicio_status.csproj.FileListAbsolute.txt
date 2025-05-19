@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\bin\Debug\net9.0\Solucao_Exercicio_status.exe
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\bin\Debug\net9.0\Solucao_Exercicio_status.deps.json
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\bin\Debug\net9.0\Solucao_Exercicio_status.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\bin\Debug\net9.0\Solucao_Exercicio_status.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\bin\Debug\net9.0\Solucao_Exercicio_status.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\Solucao_Exercicio_status.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\Solucao_Exercicio_status.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\Solucao_Exercicio_status.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\Solucao_Exercicio_status.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\Solucao_Exercicio_status.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\refint\Solucao_Exercicio_status.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\Solucao_Exercicio_status.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\Solucao_Exercicio_status.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\Solucao_Exercicio_status\obj\Debug\net9.0\ref\Solucao_Exercicio_status.dll

@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\bin\Debug\net9.0\EventHandleComDados.exe
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\bin\Debug\net9.0\EventHandleComDados.deps.json
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\bin\Debug\net9.0\EventHandleComDados.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\bin\Debug\net9.0\EventHandleComDados.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\bin\Debug\net9.0\EventHandleComDados.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\EventHandleComDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\EventHandleComDados.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\EventHandleComDados.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\EventHandleComDados.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\EventHandleComDados.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\refint\EventHandleComDados.dll
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\EventHandleComDados.pdb
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\EventHandleComDados.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\Delegate\EventHandleComDados\obj\Debug\net9.0\ref\EventHandleComDados.dll

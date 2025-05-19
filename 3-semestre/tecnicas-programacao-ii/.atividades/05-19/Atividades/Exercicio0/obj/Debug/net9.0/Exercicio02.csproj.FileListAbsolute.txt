@@ -1,0 +1,15 @@
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\bin\Debug\net9.0\Exercicio02.exe
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\bin\Debug\net9.0\Exercicio02.deps.json
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\bin\Debug\net9.0\Exercicio02.runtimeconfig.json
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\bin\Debug\net9.0\Exercicio02.dll
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\bin\Debug\net9.0\Exercicio02.pdb
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\Exercicio02.AssemblyInfoInputs.cache
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\Exercicio02.AssemblyInfo.cs
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\Exercicio02.sourcelink.json
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\Exercicio02.dll
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\refint\Exercicio02.dll
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\Exercicio02.pdb
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\Exercicio02.genruntimeconfig.cache
+C:\Projetos\Fatec\fatec-jahu-cipa\Atividades\Exercicio0\obj\Debug\net9.0\ref\Exercicio02.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Solucao_Exercicio_status/1.0.0": {
+        "runtime": {
+          "Solucao_Exercicio_status.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solucao_Exercicio_status/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
